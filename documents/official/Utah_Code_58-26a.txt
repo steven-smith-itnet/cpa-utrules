@@ -1,0 +1,653 @@
+Utah Code
+
+
+                                             Chapter 26a
+                             Certified Public Accountant Licensing Act
+
+                                                Part 1
+                                           General Provisions
+
+    58-26a-101 Title.
+       This chapter is known as the "Certified Public Accountant Licensing Act."
+
+    Enacted by Chapter 261, 2000 General Session
+
+    58-26a-102 Definitions.
+        In addition to the definitions in Section 58-1-102, as used in this chapter:
+    (1) "Accounting experience" means applying accounting and auditing skills and principles that
+         are taught as a part of the professional education qualifying a person for licensure under this
+         chapter and generally accepted by the profession, under the supervision of a licensed certified
+         public accountant.
+    (2) "AICPA" means the American Institute of Certified Public Accountants.
+    (3)
+      (a) "Attest and attestation engagement" means providing any or all of the following services:
+         (i) an audit or other engagement to be performed in accordance with the Statements on
+               Auditing Standards (SAS);
+         (ii) a review of a financial statement to be performed in accordance with the Statements on
+               Standards for Accounting and Review Services (SSARS);
+         (iii) an examination of prospective financial information to be performed in accordance with the
+               Statements on Standards for Attestation Engagements (SSAE);
+         (iv) an examination, review, or agreed upon procedures engagement to be performed in
+               accordance with the Statements on Standards for Attestation Engagements (SSAE), other
+               than an examination described in Subsection (3)(a)(iii); or
+         (v) an engagement to be performed in accordance with the standards of the PCAOB.
+      (b) The division shall adopt the standards specified in this definition:
+         (i) that are developed for general application by recognized national accountancy organizations
+               such as the AICPA and the PCAOB; and
+         (ii) by reference under the division's rulemaking authority in accordance with Title 63G, Chapter
+               3, Utah Administrative Rulemaking Act.
+    (4) "Board" means the Utah Board of Accountancy created in Section 58-26a-201.
+    (5) "Certified Public Accountant" or "CPA" means an individual currently licensed by this state
+         or any other state, district, or territory of the United States of America to practice public
+         accountancy or who has been granted a license as a certified public accountant under prior law
+         or this chapter.
+    (6) "Certified Public Accountant firm" or "CPA firm" means a qualified business entity holding a
+         valid registration as a Certified Public Accountant firm under this chapter.
+    (7)
+      (a) "Client" means the person who retains a licensee for the performance of one or more of the
+            services included in the definition of the practice of public accountancy.
+      (b) "Client" does not include a CPA's employer when the licensee works in a salaried or hourly
+            rate position.
+
+
+                                                   Page 1
+Utah Code
+
+
+    (8) "Compilation" means providing a service to be performed in accordance with Statements on
+        Standards for Accounting and Review Services (SSARS) that is presenting, in the form of
+        financial statements, information that is the representation of management or owners, without
+        undertaking to express any assurance on the statements.
+    (9) "Experience" means:
+      (a) accounting experience; or
+      (b) professional experience.
+    (10) "Licensee" means the holder of a current valid license issued under this chapter.
+    (11) "NASBA" means the National Association of State Boards of Accountancy.
+    (12) "PCAOB" means the Public Company Accounting Oversight Board.
+    (13) "Practice of public accounting" means, while holding oneself out as a certified public
+        accountant, offering to perform or performing one or more kinds of services involving the use
+        of auditing or accounting skills, including issuing reports or opinions on financial statements,
+        performing attestation engagements, performing one or more kinds of advisory or consulting
+        services, preparing tax returns, or furnishing advice on tax matters for a client.
+    (14) "Peer review" means a board approved study, appraisal, or review of one or more aspects of
+        the attest and compilation services rendered by a licensee in the practice of public accounting,
+        performed by a licensee holding an active license in this or another state who is not affiliated
+        with the licensee being reviewed.
+    (15) "Principal place of business" means the office location designated by the licensee for
+        purposes of licensure by endorsement.
+    (16) "Professional experience" means experience lawfully obtained while licensed as a certified
+        public accountant in another state, recognized by rule, in the practice of public accountancy
+        performed for a client, which includes expression of assurance or opinion.
+    (17) "Qualified business entity" means a sole proprietorship, corporation, limited liability company,
+        or partnership engaged in the practice of public accountancy.
+    (18) "Qualified continuing professional education" means a formal program of education that
+        contributes directly to the professional competence of a certified public accountant.
+    (19) "Qualifying examinations" means:
+      (a) the AICPA Uniform CPA Examination;
+      (b) the AICPA Examination of Professional Ethics for CPAs;
+      (c) the Utah Laws and Rules Examination; and
+      (d) any other examination approved by the board and adopted by the division by rule in
+           accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+    (20)
+      (a) "Report," when used with reference to financial statements, means:
+        (i) an opinion, report, or other form of language that:
+           (A) states or implies assurance as to the reliability of the attested information or compiled
+               financial statements; or
+           (B) implies that the individual or firm issuing the report has special knowledge or competence
+               in accounting or auditing and specifically includes compilations and reviews; such an
+               implication of special knowledge or competence may arise from use by the issuer of the
+               report of names or titles indicating that the person or firm is a public accountant or auditor,
+               or from the language of the report itself; or
+        (ii) any disclaimer of opinion:
+           (A) that is conventionally understood to imply any positive assurance as to the reliability of the
+               attested information or compiled financial statements referred to or language suggesting
+               special competence on the part of the individual or firm issuing such language; and
+
+
+                                                    Page 2
+Utah Code
+
+
+           (B) the report includes any other form of language that is conventionally understood to imply
+               such assurance or such special knowledge or competence.
+      (b) "Report" does not include a financial statement prepared by an unlicensed person if:
+        (i) that financial statement has a cover page that includes essentially the following language: "I
+             (we) have prepared the accompanying financial statements of (name of entity) as of (time
+             period) for the (period) then ended. This presentation is limited to preparing, in the form of
+             financial statements, information that is the representation of management (owners). I (we)
+             have not audited or reviewed the accompanying financial statements and accordingly do not
+             express an opinion or any other form of assurance on them."; and
+        (ii) the cover page and any related footnotes do not use the terms "compilation," "review,"
+             "audit," "generally accepted auditing standards," "generally accepted accounting principles,"
+             or other similar terms.
+    (21) "Review of financial statements" means providing a service in accordance with the
+        Statements on Standards for Accounting and Review Services in which the accountant obtains
+        limited assurance as a basis for reporting whether the accountant is aware of any material
+        modifications that should be made to the financial statements for the financial statements
+        to be in accordance with the applicable financial reporting framework, primarily through the
+        performance of inquiry and analytical procedures.
+    (22) "Uniform Accountancy Act" means the model public accountancy legislation developed and
+        promulgated by national accounting and regulatory associations that contains standardized
+        definitions and regulations for the practice of public accounting as recognized by the division in
+        collaboration with the board.
+    (23) "Unlawful conduct" means the same as that term is defined in Sections 58-1-501 and
+        58-26a-501.
+    (24) "Unprofessional conduct" means the same as that term is defined in Sections 58-1-501 and
+        58-26a-502 and as may be further defined by rule.
+    (25) "Year of experience" means 2,000 hours of experience:
+      (a) generally accepted by the profession; and
+      (b) under the supervision of a licensed certified public accountant.
+
+    Amended by Chapter 283, 2025 General Session
+
+
+                                                   Part 2
+                                                   Board
+
+    58-26a-201 Board.
+    (1) There is created the Utah Board of Accountancy consisting of four licensed certified public
+        accountants and one member of the general public.
+    (2) The board shall be appointed and shall serve in accordance with Section 58-1-201.
+    (3)
+      (a) The board shall perform the duties and responsibilities described in Sections 58-1-202 and
+           58-1-203.
+      (b) The board shall designate one of the board's members on a permanent or rotating basis to:
+        (i) assist the division in reviewing complaints concerning the unlawful or unprofessional conduct
+             of a licensee; and
+        (ii) advise the division in the division's investigation of these complaints.
+
+
+
+                                                   Page 3
+Utah Code
+
+
+    (4) A board member who has, under Subsection (3), reviewed a complaint or advised in the
+        investigation of the complaint may be disqualified from participating with the board when the
+        board serves as a presiding officer of an administrative proceeding concerning the complaint.
+
+    Amended by Chapter 283, 2025 General Session
+
+
+                                                   Part 3
+                                                 Licensing
+
+    58-26a-301 Licensure or registration required -- License and registration classifications.
+    (1)
+      (a) A license is required for an individual to engage in the practice of public accounting, except as
+          specifically provided in Section 58-26a-305 or 58-1-307.
+      (b) Registration with the division is required for a qualified business entity to engage in the
+          practice of public accounting, except as specifically provided in Section 58-26a-305 or
+          58-1-307.
+    (2)
+      (a) The division shall issue to an individual who qualifies under this chapter a license in the
+          classification of Certified Public Accountant.
+      (b) The division shall issue to a qualified business entity which qualifies under this chapter a
+          registration in the classification of Certified Public Accountant Firm.
+
+    Enacted by Chapter 261, 2000 General Session
+
+    58-26a-302 Qualifications for licensure and registration -- Licensure by endorsement.
+    (1) Each applicant for licensure under this chapter as a certified public accountant shall:
+      (a) submit an application in a form the division approves by rule;
+      (b) pay a fee the department determines in accordance with Section 63J-1-504;
+      (c) submit a certified transcript of credits from an accredited institution acceptable to the board
+           showing:
+        (i) successful completion of:
+           (A) a bachelor's degree or a master's degree in accounting at a college or university approved
+               by the board; or
+           (B) at least a bachelor's degree with a concentration in accounting and business as the
+               division defines by rule the division makes in accordance with Title 63G, Chapter 3, Utah
+               Administrative Rulemaking Act, at a college or university the board approves; and
+        (ii) compliance with any other education requirements the division makes by rule made in
+             collaboration with the board in accordance with Title 63G, Chapter 3, Utah Administrative
+             Rulemaking Act;
+      (d) submit evidence of accounting experience in a form the division approves by rule made in
+           accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act;
+      (e) submit evidence of having successfully completed the qualifying examinations in accordance
+           with Section 58-26a-306; and
+      (f) submit to an interview as the board may request for the purpose of examining the applicant's
+           competence and qualifications for licensure.
+    (2)
+
+
+
+                                                   Page 4
+Utah Code
+
+
+      (a) The division may issue a license under this chapter to an individual who holds a license
+           as a certified public accountant issued by another state if the applicant for licensure by
+           endorsement:
+        (i) submits an application in a form the division approves by rule;
+        (ii) pays a fee the department determines in accordance with Section 63J-1-504;
+        (iii) submits to an interview as the board may request for the purpose of examining the
+              applicant's competence and qualifications for licensure; and
+        (iv)
+           (A)
+              (I) shows evidence of having passed the qualifying examinations; and
+              (II)
+                 (Aa) meets the requirements for licensure that were applicable in this state at the time of
+                     the issuance of the applicant's license by the state from which the original licensure by
+                     satisfactorily passing the AICPA Uniform CPA Examination was issued; or
+                 (Bb) had four years of professional experience after passing the AICPA Uniform
+                     CPA Examination upon which the original license was based, within the 10 years
+                     immediately preceding the application for licensure by endorsement; or
+           (B) shows evidence that the applicant's education, examination record, and experience are
+                 substantially equivalent to the requirements of Subsection (1), as the division requires by
+                 rule made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+      (b) This Subsection (2) applies only to an individual seeking to obtain a license issued by this
+           state and does not apply to an individual practicing as a certified public accountant in the
+           state under Subsection 58-26a-305(1).
+    (3)
+      (a) Each applicant for registration as a certified public accountant firm shall:
+        (i) submit an application in a form the division approves by rule;
+        (ii) pay a fee the department determines in accordance with Section 63J-1-504;
+        (iii) have, notwithstanding any other provision of law, a simple majority of the ownership of
+              the certified public accountant firm, in terms of financial interests and voting rights of all
+              partners, officers, shareholders, members, or managers, held by individuals who are
+              certified public accountants, licensed under this chapter or another state of the United
+              States of America, and the partners, officers, shareholders, members, or managers, whose
+              principal place of business is in this state, and who perform professional services in this
+              state hold a valid license issued under Subsection 58-26a-301(2) or the corresponding
+              provisions of prior law; and
+        (iv) meet any other requirements the division makes in collaboration with the board, and in
+              accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+      (b) Each separate location of a qualified business entity within the state seeking registration as a
+           certified public accountant firm shall register separately.
+      (c) A certified public accountant firm may include owners who are not licensed under this chapter
+           as outlined in Subsection (3)(a)(iii), provided that:
+        (i) the firm designates a licensee of this state who is responsible for the proper registration of
+              the certified public accountant firm and identifies that individual to the division; and
+        (ii) all nonlicensed owners are active individual participants in the certified public accounting
+              firm.
+
+    Amended by Chapter 64, 2026 General Session
+
+
+
+                                                    Page 5
+Utah Code
+
+
+    58-26a-303 Term of license and registration -- Expiration -- Renewal.
+    (1) The division shall issue each license and registration under this chapter in accordance with
+        a two-year renewal cycle established by rule. The division may by rule extend or shorten a
+        renewal cycle by as much as one year to stagger the renewal cycles it administers.
+    (2) At the time of renewal a licensee shall show satisfactory evidence of each of the following
+        renewal requirements:
+      (a) completion of qualified continuing education as required under Section 58-26a-304; and
+      (b) successful completion of a peer review meeting the requirements established by rule by the
+          division in collaboration with the board.
+    (3) Each license or registration automatically expires on the date shown on the license or
+        registration unless it is renewed in accordance with Section 58-1-308.
+
+    Enacted by Chapter 261, 2000 General Session
+
+    58-26a-304 Continuing education.
+    (1) Except as provided in Subsections (2) through (4), as a condition precedent for a license
+        renewal, each licensee shall, during each two-year licensure cycle or other cycle defined by
+        rule, complete 80 hours of qualified continuing professional education in accordance with
+        standards defined by rule.
+    (2) A person practicing as a certified public accountant in the state under Subsection
+        58-26a-302(2) and who is seeking a license renewal in this state shall be determined to have
+        met the continuing professional education requirement of this section by:
+      (a) meeting the continuing professional education requirements for license renewal in the state in
+           which the licensee's principal place of business is located;
+      (b) demonstrating compliance with the requirements of Subsection (2)(a) by signing a statement
+           to that effect on the renewal application of this state;
+      (c) complying with all continuing professional education requirements described in Subsection
+           (1) if the state where the person's principal place of business is located has no continuing
+           professional education requirements for license renewal;
+      (d) completing at least one hour of continuing professional education that covers:
+        (i) this chapter; and
+        (ii) Utah Administrative Code, R156-26a, Utah Certified Public Accountant Licensing Act Rule;
+              and
+      (e) completing at least three hours of ethics education that cover one or more of the following
+           areas:
+        (i) the AICPA Code of Professional Conduct;
+        (ii) case-based instruction focusing on real-life situational learning;
+        (iii) ethical dilemmas faced by accounting professionals; or
+        (iv) business ethics.
+    (3) If a renewal cycle is extended or shortened under Section 58-26a-303, the continuing
+        education hours required for license renewal under this section shall be increased or decreased
+        proportionally.
+    (4)
+      (a) A licensee may request a waiver of the requirements of Subsection (1) for a period not
+           exceeding three years by:
+        (i) submitting an application for waiver in a form approved by the division; and
+
+
+
+
+                                                 Page 6
+Utah Code
+
+
+        (ii) demonstrating that the licensee will be engaged in activities or be subject to circumstances
+             which prevent the licensee from meeting the requirements of Subsection (1) during the
+             period of the waiver.
+      (b) An application for waiver shall be granted upon a showing of good cause.
+      (c) A licensee who is granted a waiver under this section shall complete 30 hours of continuing
+           professional education within the six months immediately following the expiration of the
+           waiver that includes at least 16 hours of continuing professional education focusing on
+           auditing and accounting.
+
+    Amended by Chapter 229, 2017 General Session
+
+    58-26a-305 Exemptions from licensure.
+    (1) In addition to the exemptions from licensure in Section 58-1-307, the following may engage in
+        acts included within the definition of the practice of public accountancy, subject to the stated
+        circumstances and limitations, without being licensed under this chapter:
+      (a) an individual that:
+        (i) holds a valid license or permit in good standing as a certified public accountant or equivalent
+             issued by another state, if at the time the individual was licensed, the individual showed
+             evidence of having successfully completed the equivalent of qualifying examinations
+             required for that state; and
+        (ii) consents, as a condition of the grant of the privilege described in Subsection (1)(a)(i):
+           (A) to personal and subject matter jurisdiction and disciplinary authority of the division;
+           (B) to comply with this chapter and the rules made under this chapter;
+           (C) that in the event the license from the state of the individual's principal place of business
+               becomes invalid, the individual shall cease offering or rendering professional services in
+               this state both individually and on behalf of the firm; and
+           (D) to the appointment of the state board which issued the individual's license as the
+               individual's agent upon whom process may be served in an action or proceeding brought
+               by the division against the individual;
+      (b) an officer, member, partner, or employee of any entity or organization who signs any
+           statement or report in reference to the financial affairs of the entity or organization with a
+           designation of that individual's position within the entity or organization;
+      (c) a public official or employee while performing the public official's or employee's official duties;
+      (d) an individual using accounting or auditing skills, including the preparation of tax returns,
+           management advisory services, and the preparation of financial statements without the
+           issuance of reports; or
+      (e) an employee of a CPA firm registered under this chapter or an assistant to a person licensed
+           under this chapter, working under the supervision of a licensee, if:
+        (i) neither the employee or assistant nor the licensed employer or registered CPA firm
+             represents that the unlicensed individual is a certified public accountant; and
+        (ii) no accounting or financial statements are issued in the unlicensed individual's name.
+    (2)
+      (a) Notwithstanding any other provision of law, an individual who qualifies under Subsection (1)
+           (a) has all the privileges of a licensee of this state and may engage in acts included within
+           the definition of the practice of public accountancy, whether in person or by mail, telephone,
+           or electronic means, based on a practice privilege in this state, and no notice, fee, or other
+           submission shall be provided by that person.
+
+
+
+                                                    Page 7
+Utah Code
+
+
+      (b) The division may revoke, suspend, or restrict an exemption granted under Subsection (1)
+          (a), or place on probation or issue a public or private reprimand to a person exempted under
+          those subsections for the reasons set forth in Subsection 58-1-401(2).
+
+    Amended by Chapter 283, 2025 General Session
+
+    58-26a-306 Examination requirements.
+    (1) Before taking the qualifying examinations, an applicant shall:
+      (a) submit an application in a form approved by the division;
+      (b) pay a fee determined by the department under Section 63J-1-504;
+      (c) demonstrate completion of at least a bachelor's degree or the equivalent as described in
+          Subsection 58-26a-302(1)(c); and
+      (d) be approved by the board, or an organization designated by the board, to take the qualifying
+          examinations.
+    (2) An individual shall sit for and meet the conditioning requirements of the AICPA Uniform CPA
+        Examination as established by the AICPA.
+
+    Amended by Chapter 283, 2025 General Session
+
+    58-26a-307 CPA emeritus status -- Renewal of license.
+    (1) A person currently licensed as a certified public accountant may, on any renewal date of that
+        license, apply for and obtain a transfer of that license to a status of CPA emeritus registration if:
+      (a)
+        (i) the licensee is at least 60 years of age as of the date of renewal;
+        (ii) the licensee has a disability; or
+        (iii) the board finds other good cause for believing that the licensee will not return to the practice
+              of public accountancy;
+      (b) the licensee makes an application for transfer of status and registration and pays a
+           registration fee determined by the department under Section 63J-1-504;
+      (c) the licensee, on application for transfer, certifies that the licensee will not engage in the
+           practice of public accountancy while in the status of CPA emeritus registration; and
+      (d) the licensee is in good standing as a CPA and not subject to any order of revocation,
+           suspension, or probation.
+    (2) Each CPA emeritus registration shall be issued in accordance with a two-year renewal cycle
+        established by rule.
+    (3) CPA emeritus registrants may not engage in the practice of public accountancy.
+    (4) CPA emeritus registrants are not required to fulfill the continuing professional education or peer
+        review provisions of this chapter.
+    (5) Each CPA emeritus registrant is responsible for renewing the registration, according to
+        procedures that the division establishes by rule in collaboration with the board in accordance
+        with Section 58-1-308.
+    (6) A CPA emeritus registrant may reinstate the CPA license by:
+      (a) submitting an application in a form prescribed by the division;
+      (b) paying a fee determined by the department under Section 63J-1-504; and
+      (c) showing evidence of having completed the continuing professional education requirement
+           established by rule.
+
+    Amended by Chapter 366, 2011 General Session
+
+
+                                                    Page 8
+Utah Code
+
+
+
+
+                                                 Part 4
+                                      License Denial and Discipline
+
+    58-26a-401 Grounds for denial of license -- Disciplinary proceedings.
+        Grounds for refusing to issue a license to an applicant, for refusing to renew the license of a
+    licensee, for revoking, suspending, restricting, or placing on probation the license of a licensee, for
+    issuing a public or private reprimand to a licensee, and for issuing a cease and desist order shall
+    be in accordance with Section 58-1-401.
+
+    Enacted by Chapter 261, 2000 General Session
+
+
+                                               Part 5
+                                Unlawful and Unprofessional Conduct
+
+    58-26a-501 Unlawful conduct.
+    (1) "Unlawful conduct" includes:
+      (a) using "certified public accountant," "public accountant," "CPA," or any other title, designation,
+           words, letters, abbreviation, sign, card, or device tending to indicate that the individual is a
+           certified public accountant, unless that individual:
+        (i) has a current license as a certified public accountant issued under this chapter; or
+        (ii) is exempt from licensure under Subsection 58-26a-305(1)(a);
+      (b) a firm assuming or using "certified public accountant," "CPA," or any other title, designation,
+           words, letters, abbreviation, sign, card, or device tending to indicate that the firm is composed
+           of certified public accountants unless each office of the firm in this state:
+        (i) is registered with the division; and
+        (ii) meets the requirements of Subsections 58-26a-302(3)(a)(iii) and (iv);
+      (c) signing or affixing to any accounting or financial statement the person's name or any trade
+           or assumed name used in that person's profession or business, with any wording indicating
+           that the person is an auditor, or with any wording indicating that the person has expert
+           knowledge in accounting or auditing, unless that person is licensed under this chapter and all
+           of the person's offices in this state for the practice of public accountancy are maintained and
+           registered as provided in this chapter; and
+      (d) except as provided in Section 58-26a-305, engaging in the following conduct if not licensed
+           under this chapter to practice public accountancy:
+        (i) issuing a report on financial statements of any other person, firm, organization, or
+              governmental unit; or
+        (ii) issuing a report using any form of language substantially similar to conventional language
+              used by licensees respecting:
+           (A) a review of financial statements; or
+           (B) a compilation of financial statements.
+    (2)
+      (a) Except as provided in Subsection (2)(c), if, upon inspection or investigation, the division
+           concludes that a person has engaged in unlawful conduct and that disciplinary action is
+
+
+
+
+                                                   Page 9
+Utah Code
+
+
+            appropriate, the division shall promptly issue a citation to the person in accordance with this
+            chapter and any pertinent division rules.
+      (b) A citation issued under Subsection (2)(a) shall:
+         (i) be in writing;
+         (ii) describe with particularity the nature of the violation, including a reference to the statute or
+               rule alleged to have been violated;
+         (iii) state that the recipient must notify the division in writing within 20 calendar days from the
+               day on which the recipient receives the citation if the recipient intends to contest the citation
+               at a hearing conducted under Title 63G, Chapter 4, Administrative Procedures Act; and
+         (iv) explain the consequences of failure to timely contest the citation or make payment of any
+               fine assessed by citation within the time specified by the citation.
+      (c) The division may issue a notice instead of a citation.
+      (d) A citation issued as described in Subsection (2)(a) may be served:
+         (i)
+            (A) upon a person upon whom a summons may be served in accordance with the Utah Rules
+                 of Civil Procedure; and
+            (B) may be made personally or upon the person's agent by a division investigator or by any
+                 person designated by the director; or
+         (ii) by mail.
+      (e) If, within 20 calendar days from the date of the service of the citation described in Subsection
+            (2)(a), the recipient of the citation fails to request a hearing to contest the citation, the citation
+            becomes the final order of the division and is not subject to further agency review.
+      (f) The division may extend the time period described in Subsection (2)(e) for cause.
+      (g) The division may refuse to issue or renew, suspend, revoke, or place on probation the license
+            of a licensee who fails to comply with a citation after the citation becomes final.
+      (h) The failure of an applicant for licensure to comply with a citation after the citation becomes
+            final is grounds for denial of a license.
+      (i) The division may not issue a citation more than one year after the day on which the violation
+            that is the subject of the citation is reported to the division.
+    (3)
+      (a) The division shall assess a fine under Subsection (2) according to the following:
+         (i) for a first offense, a fine of up to $1,000;
+         (ii) for a second offense, a fine of up to $2,000; and
+         (iii) for any subsequent offense, a fine of up to $2,000 for each day of continued offense.
+      (b) An action the division initiates for a first or second offense that has not resulted in a final
+            order of the division may not preclude the initiation of any subsequent action for a second or
+            subsequent offense during the pendency of the preceding action.
+    (4)
+      (a) The division may collect a fine that is not paid by:
+         (i) referring the matter to a collection agency; or
+         (ii) bringing an action in a court with jurisdiction.
+      (b) A county attorney or the attorney general shall provide legal assistance and advice to the
+            director in an action to collect a fine.
+      (c) A court shall award reasonable attorney fees and costs to the prevailing party in an action
+            brought by the division to collect a fine.
+
+    Amended by Chapter 283, 2025 General Session
+
+
+
+                                                      Page 10
+Utah Code
+
+
+    58-26a-502 Unprofessional conduct.
+    (1) "Unprofessional conduct" includes:
+      (a) undertaking an engagement when the licensee knows or should know that the licensee could
+           not reasonably expect to complete it with professional competence;
+      (b) making unauthorized disclosures of confidential information obtained in the practice of public
+           accountancy;
+      (c) engaging in any business or activity that creates a conflict of interest with a licensee's practice
+           in the profession when the licensee knows or should know that it is a conflict of interest and
+           the licensee does not fully disclose the conflict of interest in writing to all affected parties;
+      (d) failing to meet the requirements for continuing professional education or peer review required
+           under this chapter; or
+      (e) issuing a report on financial statements of a client, other than a report in which a lack of
+           independence is disclosed, or performing an attest engagement subject to the attestation
+           standards of the American Institute of Certified Public Accountants when the licensee is not
+           independent, in fact and appearance, to the client.
+    (2)
+      (a) A licensee may not, for a commission, recommend or refer to a client a product or service,
+           or for a commission recommend or refer a product or service to be supplied by a client, or
+           receive a commission, when the licensee also performs for that client:
+        (i) an audit or review of a financial statement;
+        (ii) a compilation of a financial statement when the licensee expects, or reasonably might
+              expect, that a third party will use the financial statement and the licensee's compilation
+              report does not disclose a lack of independence; or
+        (iii) an examination of prospective financial information.
+      (b) The prohibition under Subsection (2)(a) applies during:
+        (i) the period in which the licensee is engaged to perform any of the services listed in
+              Subsection (2)(a); and
+        (ii) the period covered by any historical financial statements involved in any such listed
+              services.
+      (c) A licensee who is not prohibited under Subsection (2)(a) from performing services or receiving
+           a commission and who is paid or expects to be paid a commission shall disclose that fact to
+           any person or entity to whom the licensee recommends or refers a product or service to which
+           the commission relates.
+      (d) A licensee who accepts a referral fee for recommending or referring a service of a licensee to
+           a person or entity or who pays a referral fee to obtain a client shall disclose the acceptance or
+           payment to the client.
+    (3)
+      (a) A licensee may not:
+        (i) perform for a contingent fee a professional service for, or receive a contingent fee from a
+              client for whom the licensee or the licensee's firm performs:
+           (A) an audit or review of a financial statement;
+           (B) a compilation of a financial statement when the licensee expects, or reasonably might
+                expect, that a third party will use the financial statement and the licensee's compilation
+                report does not disclose a lack of independence; or
+           (C) an examination of prospective financial information; or
+        (ii) prepare an original or amended tax return or claim for a tax refund for a contingent fee for a
+              client.
+      (b) The prohibition in Subsection (3)(a) applies during:
+
+
+                                                   Page 11
+Utah Code
+
+
+        (i) the period in which the licensee is engaged to perform any of the services listed in
+              Subsection (3)(a); and
+        (ii) the period covered by any historical financial statements involved in the listed services.
+      (c) Except as stated in Subsections (3)(d) and (e), a contingent fee is a fee established for the
+           performance of a service pursuant to an arrangement in which no fee will be charged unless a
+           specified finding or result is attained, or in which the amount of the fee is otherwise dependent
+           upon the finding or result of the service.
+      (d) Solely for the purposes of this Subsection (3), fees are not regarded as being contingent if
+           fixed by courts or other public authorities, or in tax matters, if determined based on the results
+           of judicial proceedings or the findings of a governmental agency.
+      (e) A licensee's fee may vary depending, for example, on the complexity of service rendered.
+
+    Amended by Chapter 265, 2008 General Session
+
+
+                                                Part 6
+                                  Regulatory and Operating Standards
+
+    58-26a-601 Ownership of statements, records, schedules, working papers, and memoranda
+    made by licensee.
+    (1) All statements, records, schedules, working papers, and memoranda made by a licensee under
+        this chapter, incident to or in the course of professional service to a client, are the property of
+        the licensee, in the absence of any express agreement between the licensee and the client to
+        the contrary.
+    (2) A licensee may not sell, trade, or bequeath statements, records, schedules, working papers, or
+        memoranda without the consent of the client or the client's personal representative or assignee
+        to anyone other than another licensee or one or more surviving partners or shareholders or new
+        partners or shareholders of the licensee or any combined or merged CPA firm or successors-in-
+        interest to the CPA firm.
+
+    Enacted by Chapter 261, 2000 General Session
+
+    58-26a-602 Privity.
+        A licensee, a CPA firm registered under this chapter, and any employee, partner, member,
+    officer, or shareholder of a licensee or CPA firm are not liable to persons with whom they are not
+    in privity of contract for civil damages resulting from acts, omissions, decisions, or other conduct in
+    connection with professional services performed by that person, except for:
+    (1) acts, omissions, decisions, or conduct that constitute fraud or intentional misrepresentations; or
+    (2) other acts, omissions, decisions, or conduct, if the person performing the professional services:
+      (a) knew that a primary intent of the client was for the professional services to benefit or influence
+          the particular person seeking to establish liability; and
+      (b) identified in writing to the client that the professional services performed on behalf of the client
+          were intended to be relied upon by the particular person seeking to establish liability.
+
+    Enacted by Chapter 261, 2000 General Session
+
+
+
+
+                                                    Page 12
+Utah Code
+
+
+
+
+            Page 13
+

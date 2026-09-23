@@ -1,0 +1,1268 @@
+R156. Commerce, Professional Licensing.
+R156-1. General Rule of the Division of Professional Licensing.
+R156-1-101. Title - Authority - Organization of Rules.
+           (1) This rule is known as the "General Rule of the Division of Professional Licensing."
+           (2) The Division adopts this rule under the authority of Subsection 58-1-106(1)(a) to enable the Division to administer
+Title 58, Occupations and Professions.
+           (3)(a) The rules and sections in Title R156 shall, to the extent practicable, follow the numbering and organization of
+the chapters in Title 58, Occupations and Professions.
+           (b) This Rule R156-1 has general provisions for the administration and enforcement of professions regulated in Title
+58, Occupations and Professions.
+           (c) Rule R156-46b is the Division's Utah Administrative Procedures Act Rule for Division adjudicative proceedings.
+           (d) The other rules in Title R156 have specific or unique provisions for specific Division professions or programs,
+which may supplement or alter Rule R156-1 unless expressly provided otherwise in Rule R156-1.
+
+R156-1-102. Definitions.
+            Terms used in this rule are defined in Title 58, Chapter 1, Division of Professional Licensing Act. In addition:
+            (1)(a) "Active and in good standing" means a licensure status that allows the licensee full privileges to engage in the
+practice of the profession subject to the scope of the licensee's license classification.
+            (b) A license that has been placed on probation subject to terms and conditions is not active and in good standing.
+            (2)(a) "Aggravating circumstances" means any consideration or factors that may justify an increase in the severity of
+an action to be imposed upon an applicant or licensee.
+            (b) "Aggravating circumstances" include the following:
+            (i) prior record of disciplinary action, unlawful conduct, or unprofessional conduct;
+            (ii) dishonest or selfish motive;
+            (iii) pattern of misconduct;
+            (iv) multiple offenses;
+            (v) obstruction of the disciplinary process by intentionally failing to comply with rules or orders of the Division;
+            (vi) submission of false evidence, false statements, or engaging in other deceptive practices, including creating,
+destroying, or altering records;
+            (vii) refusal to acknowledge the wrongful nature of the misconduct involved, either to the client or to the Division;
+            (viii) vulnerability of the victim;
+            (ix) lack of good faith to make restitution or to rectify the consequences of the misconduct;
+            (x) illegal conduct, including the use of controlled substances; or
+            (xi) intimidation or threats of withholding client records or other detrimental consequences if the client reports or
+testifies regarding the unprofessional or unlawful conduct.
+            (3) "Cancel" or "cancellation" means nondisciplinary action by the Division to rescind, repeal, annul, or void a license:
+            (a) issued to a licensee in error, such as where a license is issued to an applicant:
+            (i) whose payment of the required application fee is dishonored when presented for payment;
+            (ii) who has been issued a conditional license pending a criminal background check and the check cannot be completed
+due to the applicant's failure to resolve an outstanding warrant or to submit acceptable fingerprint cards; or
+            (iii) who has been issued the wrong classification of licensure; or
+            (b) not issued in error, but the licensee fails to maintain the ongoing qualifications for licensure and the failure is not
+defined as unprofessional conduct or unlawful conduct.
+            (4) "Charges" means the acts or omissions alleged to constitute either unprofessional or unlawful conduct or both by a
+licensee, that serve as the basis to consider a licensee for inclusion in the Utah Professionals Health Program authorized in Title
+58, Chapter 4a, Utah Professionals Health Program.
+            (5)(a) "Cheating" means the use of any means or instrumentality by or for the benefit of a candidate to alter exam
+results to inaccurately represent the competency of a candidate with respect to the knowledge or skills about which the candidate
+is examined.
+            (b) "Cheating" includes:
+            (i) for a candidate during an exam:
+            (A) communication about the exam with another candidate inside the exam room or facility;
+            (B) communication about the exam with anyone outside of the exam room or facility;
+            (C) copying or looking at another candidate's answers;
+            (D) allowing another candidate to copy or look at the candidate's answers;
+            (E) use of any item, material, or device that is not specifically authorized for use in the exam; or
+            (F) unauthorized tampering with exam equipment or materials;
+            (ii) allowing access to exam questions or answers if not authorized by the Division;
+            (iii) taking or attempting to take an exam for another individual;
+            (iv) obtaining, using, disclosing, buying, selling, possessing, or having access to any part of a Division exam without
+written authorization from the Division or its contracted vendor;
+            (v) violating an exam confidentiality agreement; or
+            (vi) attesting that the candidate meets the qualifications to sit for an exam if the candidate knows or reasonable should
+know that the candidate does not meet the qualifications.
+            (c) "Cheating" is unlawful conduct under Subsection 58-1-501(1)(e) and unprofessional conduct under Subsection 58-
+1-501(2)(a)(viii).
+            (6) "Conditional licensure" means an interim non-adverse licensure action, in which a license is issued to an applicant
+for initial, renewal, or reinstatement of licensure on a conditional basis in accordance with Section R156-1-308f, while an
+investigation, inspection, or audit is pending.
+            (7) "Denial of licensure" means action by the Division refusing to issue a license to an applicant for initial licensure,
+renewal of licensure, reinstatement of licensure, or relicensure.
+            (8)(a) "Disciplinary action" means adverse licensure action by the Division under the authority of Subsection 58-1-
+401(2)(a) or (b).
+            (b) "Disciplinary action" as used in Subsection 58-1-401(6):
+            (i) means an adverse licensure action initiated by the Division; and
+            (ii) does not mean an adverse licensure action taken by the Division in response to an application for licensure.
+            (9) "Duplicate license" means a license reissued to replace a license that has been lost, stolen, or mutilated.
+            (10) "Emergency review committee" means an emergency adjudicative proceedings review committee created by the
+Division under the authority of Subsection 58-1-108(2).
+            (11) "Expire" or "expiration" means the automatic termination of a license that occurs:
+            (a) at the expiration date shown upon a license if the licensee fails to renew the license before the expiration date; or
+            (b) before the expiration date shown on the license:
+            (i) upon the death of a licensee who is a natural person;
+            (ii) upon the dissolution of a licensee that is a business structure such as a partnership, corporation, or other business
+entity; or
+            (iii) upon the issuance of a new license that supersedes an old license, including a license that:
+            (A) replaces a temporary license;
+            (B) replaces a student or other interim license that is limited to one or more renewals or other renewal limitation; or
+            (C) is issued to a licensee in an upgraded classification permitting the licensee to engage in a broader scope of practice
+in the licensed occupation or profession.
+            (12) "Home telephone number" in Section 58-1-106 or R156-1-106 includes a licensee's personal cell phone number.
+            (13) "Home address" in Section 58-1-106 or R156-1-106 may include a licensee's mailing address or email address.
+            (14) "Inactive" or "inactivation" means action by the Division to place a license on inactive status in accordance with
+Section 58-1-305 and Section R156-1-305.
+            (15) "Investigative subpoena authority" means the Division assistant director or legal analyst, or an alternate
+designated by the director in writing.
+            (16) "License" means a right or privilege to engage in the practice of a regulated profession as a licensee.
+            (17) "Limit" or "limitation" means nondisciplinary action placing either terms and conditions or restrictions, or both
+upon a license:
+            (a) issued to an applicant for initial licensure, renewal, or reinstatement of licensure, or relicensure; or
+            (b) issued to a licensee in place of the licensee's current license or disciplinary status.
+            (18) "Mitigating circumstances" means any consideration or factors that may justify a reduction in the severity of an
+action to be imposed upon an applicant or licensee.
+            (a) Mitigating circumstances include:
+            (i) absence of prior record of disciplinary action, unlawful conduct or unprofessional conduct;
+            (ii) personal, mental, or emotional problems if the problems have not posed a risk to the health, safety, or welfare of
+the public or clients served, such as drug or alcohol abuse while working or similar situations where the licensee or applicant
+should know that they should refrain from engaging in activities that may pose such a risk;
+            (iii) timely and good faith effort to make restitution or rectify the consequences of the misconduct involved;
+            (iv) full and free disclosure to the client or Division before the discovery of any misconduct;
+            (v) inexperience in the practice of the profession, that is not the result of failure to obtain appropriate education or
+consultation that the applicant or licensee should have known they should obtain before beginning work on a particular matter;
+            (vi) imposition of other penalties or sanctions if the other penalties and sanctions have alleviated threats to the public
+health, safety, and welfare; and
+            (vii) remorse.
+            (b) The following factors may not be considered as mitigating circumstances:
+            (i) forced or compelled restitution;
+            (ii) withdrawal of complaint by client or other affected persons;
+            (iii) resignation before disciplinary proceedings;
+            (iv) failure of injured client to complain;
+            (v) complainant's recommendation as to sanction; or
+            (vi) in an informal disciplinary proceeding brought pursuant to Subsection 58-1-501(2)(a)(iii), or 58-1-501(2)(a)(iv), or
+Section R156-1-501:
+           (A) argument that a prior proceeding was conducted unfairly, contrary to law, or in violation of due process or any
+other procedural safeguard;
+           (B) argument that a prior finding or sanction was contrary to the evidence or entered without due consideration of
+relevant evidence;
+           (C) argument that a respondent was not adequately represented by counsel in a prior proceeding; and
+           (D) argument or evidence that former statements of a respondent made in conjunction with a plea or settlement
+agreement are not true.
+           (19) "Nondisciplinary action" means adverse licensure action by the Division under the authority of Subsection 58-1-
+401(1) or 58-1-401(2)(c) or (d).
+           (20) "Peer committee" mean an advisory peer committee to a board that is created by the Legislature in Title 58,
+Occupations and Professions, or created by the Division under the authority of Subsection 58-1-203(1)(f).
+           (21) "Probation" means disciplinary action placing terms and conditions upon a license:
+           (a) issued to an applicant for initial licensure, renewal or reinstatement of licensure, or relicensure; or
+           (b) issued to a licensee in place of the licensee's current license or disciplinary status.
+           (22) "Public reprimand" means disciplinary action to formally reprove or censure a licensee for unprofessional or
+unlawful conduct, with the documentation of the action being classified as a public record.
+           (23) "Regulatory authority" as used in Subsection 58-1-501(2)(a)(iv) and this rule means any governmental entity that
+licenses, certifies, registers, or otherwise regulates persons subject to its jurisdiction, or grants the right to practice before or
+otherwise do business with the governmental entity.
+           (24) "Reinstate" or "reinstatement" means to:
+           (a) activate an expired license; or
+           (b) restore a license that is restricted as defined in Subsection (26)(b), suspended, or on probation, to a less restrictive
+license or an active in good standing license.
+           (25) "Relicense" or "relicensure" means to license an applicant who has previously been revoked or has previously
+surrendered a license.
+           (26) "Restrict" or "restriction" means disciplinary action qualifying or limiting the scope of a license:
+           (a) issued to an applicant for initial licensure, renewal or reinstatement of licensure, or relicensure in accordance with
+Section 58-1-304; or
+           (b) issued to a licensee in place of the licensee's current license or disciplinary status.
+           (27) "Revoke" or "revocation" means disciplinary action by the Division extinguishing a license.
+           (28) "Suspend" or "suspension" means disciplinary action by the Division removing the right to use a license for a
+period or indefinitely as indicated in the disciplinary order, with the possibility of subsequent reinstatement of the right to use the
+license.
+           (29) "Surrender" means voluntary action by a licensee giving back or returning to the Division in accordance with
+Section 58-1-306, the rights and privileges associated with a license issued to the licensee.
+           (30) "Temporary license" or "temporary licensure" means a license issued by the Division on a temporary basis to an
+applicant for initial licensure, renewal or reinstatement of licensure, or relicensure in accordance with Section 58-1-303.
+           (31) "Unprofessional conduct" as defined in Title 58, Occupations and Professions is further defined, in accordance
+with Subsection 58-1-203(1)(e), in Section R156-1-501.
+           (32) A "warning or final disposition letter that does not constitute disciplinary action" as used in Subsection 58-1-
+108(3) means a letter that does not contain findings of fact or conclusions of law and does not constitute a reprimand, but that
+may address one or more of the following:
+           (a) Division concerns;
+           (b) allegations upon which those concerns are based;
+           (c) potential for administrative or judicial action; or
+           (d) disposition of Division concerns.
+
+R156-1-102a. Global Definitions of Levels of Supervision.
+           (1) Under Subsection 58-1-106(1)(a), except as otherwise provided by statute or rule, the following global definitions
+of levels of supervision apply to supervision terminology in Title 58, Occupations and Professions and Title R156, and shall be
+referenced and used to the extent practicable in those statutes and rules to promote uniformity and consistency:
+           (a) "Direct supervision" and "immediate supervision" means the supervising licensee is present and available for face-
+to-face communication with the person being supervised when and where professional services are being provided;
+           (b) "Indirect supervision" means the supervising licensee:
+           (i) has given either written or oral instructions to the person being supervised;
+           (ii) is present in the facility or located on the same premises where the person being supervised is providing services;
+and
+           (iii) is available to provide immediate face-to-face communication with the person being supervised as necessary.
+           (c) "General supervision" means that the supervising licensee:
+           (i) has authorized the work to be performed by the person being supervised;
+          (ii) is available for consultation with the person being supervised by personal face-to-face contact, or direct voice
+contact by electronic or other means, without regard to whether the supervising licensee is present in the facility or located on the
+same premises where the person being supervised is providing services;
+          (iii) can provide any necessary consultation within a reasonable time; and
+          (iv) personal contact is routine.
+          (d) "Supervising licensee" means a licensee who under statute or rule has satisfied the requirements to act as a
+supervisor and has agreed to supervise an unlicensed individual or a licensee in a classification or licensure status that requires
+supervision.
+          (2) Except as otherwise provided by statute or rule:
+          (a) unlicensed personnel allowed to practice a regulated profession shall practice under an appropriate level of
+supervision as defined in this section, as specified by the profession's licensing act or rule; and
+          (b) a license classification required to practice under supervision shall practice under an appropriate level of
+supervision as defined in this section, as specified by the profession's licensing act or rule.
+
+R156-1-102b. Definitions Include Words Formed by Derivation.
+          A word formed by derivation from a word defined in Title 58, Occupations and Professions, or Title R156 is subject to
+the same applicable requirements, conditions, and restrictions on use. For example, an unlicensed person may not use the word
+architecture in a business name to avoid the prohibition against the use of the title architect under Section 58-3a-501.
+
+R156-1-106. Division - Licensee Lists.
+           (1) Each person requesting a licensee list pursuant to Section 58-1-106 and this section shall apply to the Division
+upon a form provided by the Division in which the requester:
+           (a) submits for Division approval a copy of the requester's proposed communications to the licensees, with a
+description of the proposed frequency and method of communication;
+           (b) acknowledges that the information received is a Division record under Title 63G, Chapter 2, Government Records
+Access and Management Act (GRAMA), and that a violation of Section 58-1-106 or this section may subject the requester to
+criminal penalties and other remedies under GRAMA; and
+           (c) agrees to:
+           (i) comply with the restrictions of this section;
+           (ii) use the information received only for the purposes for which the requester is authorized;
+           (iii) not disclose or disseminate the information received to another person who is not the requester's agent or
+employee;
+           (iv) not use the information received for advertising or solicitation except as allowed in this section;
+           (v) only distribute to the licensees the Division-approved communications and informational material at the approved
+frequency and method;
+           (vi)(A) include with each communication a clear and conspicuous explanation of how the licensee can opt out of
+receiving future communications; and
+           (B) honor opt-out requests within five business days; and
+           (vii) if notified by the Division:
+           (A) immediately stop use of the information received and stop communications and distribution of informational
+material to licensees; and
+           (B) within 15 days, destroy the information received, and certify in writing to the Division its destruction.
+           (2) Under Subsections 58-1-106(1)(k) and 58-1-106(2), the Division may provide the following requesters a list of
+multiple licensees, and include licensee home telephone numbers, home addresses, or email addresses:
+           (a) a governmental entity, including another state or territory or its regulatory agency;
+           (b) a government-managed corporation;
+           (c) a political subdivision;
+           (d) the federal government;
+           (e) a party to a prelitigation proceeding convened by the Division under Title 78B, Chapter 3, Part 4, Utah Health Care
+Malpractice Act;
+           (f) a medical reserve corps, public safety authority, host entity, unified command, or other person concurrently
+engaged with a person described in Subsections (2)(a) through (d), for preparing for, participating in, or responding to an
+emergency described in Section 58-1-307;
+           (g) a research university or regional university in the Utah System of Higher Education, for conducting research;
+           (h) a Utah nonprofit voluntary professional membership association of individuals licensed by the Division, for
+purposes that, notwithstanding Subsection (1)(c), may include advertising or soliciting association membership;
+           (i) a local health department created under Title 26A, Chapter 1, Local Health Departments or the Utah Association of
+Local Health Departments, for contacting health care providers who reside or work within a local health department boundary
+about a public health emergency or public health concern within that local health department boundary;
+           (j) a Division contracted vendor for accomplishing that contract, such as the Division's exams vendor for surveying
+licensees regarding a job analysis; or
+           (k) the following persons, for the sole purpose of providing licensees continuing education that meets the requirements
+of Title 58, Occupations and Professions, and Title R156:
+           (i) a professional association not described in Subsection (2)(h);
+           (ii) a nonprofit regulatory association in which the Division holds membership;
+           (iii) a private continuing education organization;
+           (iv) a trade union; or
+           (v) a school of higher education and training such as a university, college, technical college, or career and technical
+school.
+           (3) As used in Subsection (2)(k), providing licensees continuing education does not mean providing general
+information, learning opportunities, marketing, or outreach, including the following:
+           (a) volunteer opportunities, even if the volunteer would receive training and practical education;
+           (b) involvement in advocating for legislation;
+           (c) involvement in labor organizing issues;
+           (d) solicitations or recruitment for membership; or
+           (e) continuing education advertisements in a newsletter or other communication issued by the requester that also
+contains non-continuing education advertisements or other information, unless:
+           (i) the newsletter is issued by a Utah nonprofit professional association or trade union; and
+           (ii) the Division determines the newsletter's primary focus is communicating educational articles and information
+about continuing education, and only incidentally contains advertisements and solicitations for membership.
+           (4) Under Subsection 58-1-106(3)(c), proper identification of an individual who requests the address or telephone
+number of a licensee under Subsection 58-1-106(3)(a) shall consist of the individual's:
+           (a) full legal name;
+           (b) mailing address;
+           (c) email address;
+           (d) daytime phone number; and
+           (e)(i) one of the following current photo identifications issued by a foreign or domestic government:
+           (A) driver's license;
+           (B) non-driver identification card;
+           (C) passport;
+           (D) military identification; or
+           (E) concealed weapons permit; or
+           (ii) if the individual does not have government-issued identification, alternative evidence of the individual's identity as
+determined appropriate by the Division, if the Division documents on the requester's application how the individual was
+positively identified.
+           (5) The Division may deny a request under Section 58-1-106 for a licensee list or for a home address, email address, or
+home telephone number of a licensee if the Division determines:
+           (a) the request is an unwarranted invasion of privacy or a threat to the public health, safety, and welfare; or
+           (b) the requester, or any affiliate of the requester, failed to comply with the terms and conditions of a previous
+application or otherwise violated this section.
+
+R156-1-109. Presiding Officers.
+           (1) This section establishes the presiding officers for the Division under Subsection 63G-4-103(1)(h) and Sections 58-
+1-104, 58-1-106, 58-1-109, 58-1-202, 58-1-203, 58-55-103, and 58-55-201, except as otherwise designated in writing by the
+Director, or by the Construction Services Commission under Title 58, Chapter 55, Utah Construction Trades Licensing Act.
+           (2) The Division or Department employee designated in writing by the Director is the presiding officer for issuance of:
+           (a) notices of agency action; and
+           (b) notices of hearing issued concurrently with a notice of agency action or issued in response to a request for agency
+action.
+           (3) Under Subsections 58-1-109(2) and 58-1-109(4) a Department administrative law judge is the presiding officer for
+entering an order of default against a party and conducting further proceedings to complete the adjudicative proceeding, including
+issuing a recommended order to the Director or Construction Services Commission determining the discipline to be imposed,
+licensure action to be taken, relief to be granted, or other appropriate matters.
+           (4) Except as provided in Subsection (9), the presiding officers for adjudicative proceedings before the Division are as
+follows:
+           (a) the Director is the presiding officer for the following adjudicative proceedings, however resolved, including
+stipulated settlements and hearings:
+           (i) formal adjudicative proceedings under:
+           (A) Subsection R156-46b-201(1)(b), request for declaratory order conducted as a formal adjudicative proceeding;
+           (B) Subsection R156-46b-201(2)(a), formal disciplinary proceeding for revocation, suspension, restricted licensure,
+probationary licensure, cease and desist order or administrative fine not through citation, or public reprimand;
+           (C) Subsection R156-46b-201(2)(b), unilateral modification of disciplinary order; and
+            (D) Subsection R156-46b-201(2)(c), termination of diversion agreement or program contract under Section 58-4a-107;
+and
+            (ii) informal adjudicative proceedings under:
+            (A) Subsection R156-46b-202(1)(d), payment of approved claim against the Residence Lien Recovery Fund;
+            (B) Subsection R156-46b-202(1)(e)(iii), approval or denial of request for modification of a disciplinary order;
+            (C) Subsection R156-46b-202(1)(e)(v), approval or denial of request for correction of other than procedural or clerical
+mistakes;
+           (D) Subsection R!56-46b-202(1)(h), request for declaratory order conducted as an informal adjudicative proceeding;
+           (E) Subsection R156-46b-202(1)(i), disciplinary sanction imposed in a stipulation or memorandum of understanding
+with a licensure applicant;
+           (F) Subsection R156-46b-202(1)(j), other requests for agency action not designated as a formal adjudicative
+proceeding;
+           (G) Subsection R156-46b-202(2)(a), nondisciplinary proceeding that results in cancellation of licensure;
+           (H) Subsection R156-46b-202(2)(b)(ii), disciplinary proceeding against a controlled substance licensee;
+           (I) Subsection R156-46b-202(2)(c), disciplinary proceeding for violation of an order governing a license; and
+           (J) Subsection R156-46b-202(2)(d), disciplinary proceeding limited to Subsection 58-1-501(2)(a)(iii) or (iv) or Section
+R156-1-501.
+           (b) the bureau manager or program coordinator over the profession or program involved is the presiding officer for:
+           (i) formal adjudicative proceedings under Subsection R156-46b-201(1)(c), for determining if a request for a board of
+appeal is properly filed under Subsections R156-15A-210(1) through (4); and
+           (ii) informal adjudicative proceedings under:
+           (A) Subsection R156-46b-202(1)(a), approval or denial of an application for initial licensure, renewal, reinstatement,
+inactive or emeritus status, tax credit certificate, or criminal history determination;
+           (B) Subsection R156-46b-202(1)(b), favorable or unfavorable criminal history determination;
+           (C) Subsection R156-46b-202(1)(e)(i), approval or denial of request to surrender licensure;
+           (D) Subsection R156-46b-202(1)(e)(iv), approval or denial of request for correction of procedural or clerical mistakes;
+           (E) Subsection R156-46b-202(2)(b)(iii), disciplinary proceeding against a contract security company or armored car
+company for failure to replace a qualifier;
+           (F) Subsection R156-46b-202(2)(b)(iv), disciplinary proceeding against a hunting guide or outfitter for unprofessional
+conduct under Subsection R156-79-502(12) or R156-79-502(14); and
+           (G) Subsection R156-46b-202(2)(e), disciplinary proceeding regarding renewal requirements.
+           (5) A Department administrative law judge licensed in good standing with the Utah State Bar is the presiding officer
+for informal citation hearings under Subsection R156-46b-202(1)(g).
+           (6)(a) The Uniform Building Code Commission is the presiding officer for formal adjudicative proceedings under
+Subsection R156-46b-201(1)(c) for convening a board of appeal under Subsection 15A-1-207(3), serving as fact finder at the
+evidentiary hearing, and entering the final order.
+           (b) A Department administrative law judge shall conduct the hearing as specified in Subsection 58-1-109(2).
+           (7) The Residence Lien Recovery Fund manager, bureau manager, or program coordinator designated in writing by the
+Director is the presiding officer for informal adjudicative proceedings under Subsection R156-46b-202(1)(c), for approval or
+denial of claims against the Residence Lien Recovery Fund.
+           (8)(a) The Utah Professionals Health Program manager or an alternate Department employee designated in writing by
+the Director is the presiding officer for informal adjudicative proceedings under Title 58, Chapter 4a, Utah Professionals Health
+Program, including:
+           (i) Subsection R156-46b-202(1)(e)(ii), request for entry into and participation in the Utah Professionals Health
+Program; and
+           (ii) Subsection R156-46b-202(1)(f), matters relating to the Utah Professionals Health Program that do not involve
+termination under Section 58-4a-107.
+           (b) Each program contract for entry into and participation in the Utah Professionals Health Program shall require the
+written concurrence of the Division director.
+           (9)(a)(i)(A) The Construction Services Commission is the presiding officer for adjudicative proceedings under Title
+58, Chapter 55, Utah Construction Trades Licensing Act, however resolved including stipulated settlements and hearings, except
+as otherwise specified in this rule.
+           (B) Orders adopted by the Commission as presiding officer require the concurrence of the Director.
+           (ii) The Construction Services Commission is the presiding officer:
+           (A) for informal adjudicative proceedings under:
+           (I) Subsection R156-46b-202(1)(e)(iii), approval or denial of request for modification of a disciplinary order;
+           (II) Subsection R156-46b-202(1)(e)(v), approval or denial of request for correction of other than procedural or clerical
+mistakes;
+           (III) Subsection R156-46b-202(1)(h), request for declaratory order conducted as an informal adjudicative proceeding;
+           (IV) Subsection R156-46b-202(1)(i), disciplinary sanctions imposed in a stipulation or memorandum of understanding
+with a licensure applicant;
+           (V) Subsection R156-46b-202(1)(j), other requests for agency action not designated as a formal adjudicative
+proceeding;
+           (VI) except for dismissals under Subsection (9)(d)(vi), Subsection R156-46b-202(2)(b)(i) disciplinary proceedings
+against a contractor, plumber, electrician, or alarm company;
+           (VII) Subsection R156-46b-202(2)(c), disciplinary proceedings concerning violations of an order governing a license;
+and
+           (VIII) Subsection R156-46b-202(2)(d), disciplinary proceeding limited to Subsection 58-1-501(2)(a)(iii) or (iv) or
+Section R156-1-501;
+           (B) to serve as fact finder and adopt orders in formal evidentiary hearings for adjudicative proceedings involving
+persons licensed or required to be licensed under Title 58, Chapter 55, Utah Construction Trades Licensing Act; and
+           (C)(I) to review recommended orders of a board, an administrative law judge, or other presiding officer who acted as
+the fact finder in an evidentiary hearing involving a person licensed or required to be licensed under Title 58, Chapter 55, Utah
+Construction Trades Licensing Act, and to adopt an order of its own; and
+           (II) in adopting its order, the Construction Services Commission may accept, modify, or reject the recommended order.
+           (iii)(A) Orders of the Construction Services Commission shall address the issues before the Construction Services
+Commission and shall be based upon the record developed in an adjudicative proceeding conducted by the Construction Services
+Commission.
+           (B) If the Commission has designated another presiding officer to conduct an adjudicative proceeding and submit a
+recommended order, the record to be reviewed by the Construction Services Commission shall consist of the findings of fact,
+conclusions of law, and recommended order submitted by the presiding officer based upon the evidence presented in the
+adjudicative proceeding before the presiding officer.
+           (iv)(A) The Construction Services Commission or its designee shall submit an adopted order to the Director for the
+Director's concurrence or rejection within 30 days after it receives a recommended order or adopts an order, whichever is earlier.
+           (B) An adopted order is issued and becomes a final order upon the concurrence of the Director.
+           (v)(A) Under Subsection 58-55-103(10), if the Director refuses to concur in an adopted order, the Director shall return
+the adopted order to the Construction Services Commission or its designee with the reasons in writing.
+           (B) The Construction Services Commission or its designee shall reconsider the returned adopted order and resubmit an
+adopted order to the Director, whether or not modified, within 30 days of the date of the initial or subsequent return.
+           (C) The Director shall consider the resubmitted adopted order and either concur rendering the order final, or refuse to
+concur and issue a final order, within 90 days of the date of the initial recommended order.
+           (D) If the time frames in this subsection are followed, this subsection may not preclude an informal resolution such as
+an executive session of the Construction Services Commission or its designee with the Director to resolve the reasons for the
+Director's refusal to concur in an adopted order.
+           (vi) The record of the adjudicative proceeding shall include recommended orders, adopted orders, refusals to concur in
+adopted orders, and final orders.
+           (vii) The final order issued by the Construction Services Commission and concurred in by the Director, or not
+concurred in by the Director and issued by the Director, may be appealed by filing a request for agency review with the
+Executive Director.
+           (viii) The content of orders shall comply with Subsection 63G-4-203(1) and Sections 63G-4-208 and 63G-4-209.
+           (b) The Director is the presiding officer for the concurrence role in disciplinary proceedings under Subsections R156-
+46b-202(2)(b)(i), R156-46b-202(2)(c), and R156-46b-202(2)(d) as required by Subsection 58-55-103(1)(b)(iv).
+           (c) A Department administrative law judge is the presiding officer to conduct formal adjudicative proceedings before
+the Construction Services Commission and its advisory boards, as specified in Subsection 58-1-109(2).
+           (d) The bureau manager is the presiding officer to conduct informal adjudicative proceedings under:
+           (i) Subsections R156-46b-202(1)(a)(i) through (1)(a)(iv), approval or denial of an application for initial licensure,
+renewal, reinstatement, inactive or emeritus status;
+           (ii) Subsection R156-46b-202(1)(a)(vi), approval or denial of an application for criminal history determination;
+           (iii) Subsection R156-46b-202(1)(b), favorable or unfavorable criminal history determination;
+           (iv) Subsection R156-46b-202(1)(e)(i), approval or denial of request to surrender licensure;
+           (v) Subsection R156-46b-202(1)(e)(iv), approval or denial of request for correction of procedural or clerical mistakes;
+           (vi) dismissal of a Subsection R156-46b-202(2)(b)(i) disciplinary proceeding based upon the respondent's documented
+compliance, such as by the respondent replacing a qualifier, providing a required bond, or obtaining necessary insurance; and
+           (vii) Subsection R156-46b-202(2)(e), disciplinary proceeding regarding renewal requirements.
+           (e) The Plumbers Licensing Board is the presiding officer to serve as the fact finder and to issue recommended orders
+to the Construction Services Commission in formal evidentiary hearings for adjudicative proceedings involving persons licensed
+as or required to be licensed as plumbers.
+           (f) The Electricians Licensing Board is the presiding officer to serve as the fact finder and to issue recommended
+orders to the Construction Services Commission in formal evidentiary hearings for adjudicative proceedings involving persons
+licensed as or required to be licensed as electricians.
+           (g) The Alarm System Security and Licensing Board is the presiding officer to serve as the fact finder and to issue
+recommended orders to the Construction Services Commission in formal evidentiary hearings for adjudicative proceedings
+involving persons licensed as or required to be licensed as alarm companies or agents.
+          (10) At the direction of a manager or program coordinator, a licensing technician or program technician may sign an
+informal order in the technician's name if:
+          (a) the manager or program coordinator approves the wording in advance; and
+          (b) the caption "FOR THE MANAGER" or "FOR THE PROGRAM COORDINATOR" immediately precedes the
+technician's signature.
+
+R156-1-109a. Designation of Board Panel - Petition for Review of Panel Decision.
+           (1)(a) Under Subsection 58-1-109(3)(b) the Director may designate any odd number of board members on a case-by-
+case or period-of-time basis to represent a licensing board as the presiding officer.
+           (b) If the Director has not designated board members under Subsection (1)(a) or insufficient board members are able to
+serve, the bureau manager or licensing board chair may designate the board members to serve.
+           (2)(a) Under Subsection 58-1-109(4)(b) and Section R151-4-401, to petition the licensing board to review a
+recommended order issued by the designated board members, the aggrieved person shall file with the Division the petition form
+available from the Division within ten calendar days after the day on which the recommended order is issued.
+           (b) The petition shall:
+           (i) be signed by the aggrieved person seeking review;
+           (ii) state the grounds for review and the relief requested;
+           (iii) state the date upon which the petition was filed with the Division; and
+           (iv) be concurrently served on each party and any administrative law judge who is assigned to the case.
+           (3) If the aggrieved person does not file a petition in accordance with Subsection (2), the designated board members'
+recommended order becomes the final recommended order of the licensing board.
+           (4)(a) As determined by the Division, a licensing board may review a properly filed petition together with the
+designated board members' recommended order at the licensing board's next regularly scheduled board meeting, or at a specially
+noticed board meeting.
+           (b) Under Subsection 58-1-109(4)(c), after review a licensing board may issue its recommended order by affirming the
+designated board members' recommended order, or modifying or rejecting all or any part of that recommended order and entering
+new findings of fact, conclusions of law, statement of reasons, and order.
+
+R156-1-110. Issuance of Investigative Subpoenas.
+           (1)(a) A request for a subpoena in a Division investigation pursuant to Subsection 58-1-106(1)(c) shall be made in
+writing to the investigative subpoena authority and accompanied by a draft of the proposed subpoena.
+           (b) Each request shall contain adequate information to enable the investigative subpoena authority to make a finding of
+sufficient need, including:
+           (i) the factual basis for the request;
+           (ii) the relevance and necessity of the particular person and evidence to the investigation; and
+           (iii) an explanation of why the subpoena is directed to the person upon whom it is to be served.
+           (c) A request for a subpoena and each finding by the investigative subpoena authority is part of the investigative case
+file and is evidence obtained as a part of an investigation before that evidence is presented in an administrative action or criminal
+action.
+           (2) An approved subpoena shall be issued under the seal of the Division and the signature of the investigative
+subpoena authority.
+           (3) The person who requests an investigative subpoena is responsible for service of the subpoena.
+           (4)(a) Service may be made:
+           (i) on a person upon whom a summons may be served pursuant to the Utah Rules of Civil Procedure; and
+           (ii) personally or on the agent of the person being served.
+           (b) If a party is represented by an attorney, service shall be made on the attorney.
+           (5)(a) Service may be accomplished by hand delivery or by mail to the last known address of the intended recipient.
+           (b) Service by mail is complete upon mailing.
+           (c) Service may be accomplished by electronic means.
+           (d) Service by electronic means is complete on transmission if transmission is completed during normal business hours
+at the place receiving the service, 8 a.m. to 5 p.m. on days other than Saturdays, Sundays, and state and federal holidays;
+otherwise, service is complete on the next business day.
+           (6)(a) Each investigative subpoena shall have a certificate of service.
+           (b) The certificate of service may be a separate form or may be on the subpoena.
+           (c) The person serving the subpoena shall complete the certificate of service for both the served copy and the copy
+kept for the Division files.
+           (7) Each investigative subpoena shall have a form provided by the Division for the recipient's custodian of records to
+complete, sign, and return with the requested information to establish the authenticity of the information.
+           (8)(a) The investigative subpoena authority may quash or modify an investigative subpoena if the recipient shows the
+investigative subpoena is unreasonable or oppressive.
+           (b) A recipient shall file and serve a motion to quash or modify an investigative subpoena upon the investigative
+subpoena authority no later than ten days after service of the investigative subpoena.
+          (c) The Division shall file and serve its response to a motion to quash or modify an investigative subpoena upon the
+investigative subpoena authority and the recipient no later than five business days after receipt of the motion.
+          (d) The recipient may not file a reply to the Division's response.
+
+R156-1-111. Qualifications for Tax Certificate - Definitions - Application Requirements.
+           (1)(a) "Psychiatrist" under Subsection 58-1-111(1)(d), includes a licensed physician who is board eligible or board
+certified for a psychiatry specialization recognized by the American Board of Medical Specialties (ABMS) or the American
+Osteopathic Association's Bureau of Osteopathic Specialists (BOS); and
+           (b) "previously or currently board certified in psychiatry" in Subsection 58-1-111(1)(f)(ii)(B) means board certified for
+a psychiatry specialization recognized by the American Board of Medical Specialties (ABMS) or the American Osteopathic
+Association's Bureau of Osteopathic Specialists (BOS).
+           (2) An applicant for a tax credit certificate under Section 58-1-111 shall provide to the Division:
+           (a) the original application made available on the Division's website, containing the signed attestation of compliance;
+and
+           (b) additional documentation that may be required by the Division to verify the applicant's representations made in the
+application.
+
+R156-1-205. Peer or Advisory Committees - Executive Director to Appoint - Terms of Office - Vacancies in Office -
+Removal from Office - Quorum Requirements - Appointment of Chairman - Division to Provide Secretary - Compliance
+with Open and Public Meetings Act and Utah Administrative Procedures Act - No Per Diem and Expenses.
+           (1) The executive director shall appoint the members of peer or advisory committees established under Title 58,
+Occupations and Professions, or Title R156.
+           (2)(a) Except for ad hoc committees whose members shall be appointed on a case-by-case basis, the term of office of
+peer or advisory committee members is four years.
+           (b) The executive director shall, at the time of appointment or reappointment, adjust the length of terms to ensure that
+they are staggered so that about half of the peer or advisory committee is appointed on two-year cycles.
+           (3) A peer or advisory committee member may not serve more than two full consecutive terms, and a member who
+ceases to serve may not serve again until after the expiration of two years from the date of cessation of service.
+           (4)(a) If a vacancy on a peer or advisory committee occurs, the executive director shall appoint a replacement to fill the
+unexpired term.
+           (b) After filling the unexpired term, the replacement may be appointed for only one additional full term.
+           (5)(a) If a peer or advisory committee member fails or refuses to fulfill the responsibilities and duties of a peer or
+advisory committee member, including attendance at meetings, the executive director may remove the peer or advisory
+committee member and replace the member in accordance with this section.
+           (b) After filling the unexpired term, the replacement may be appointed for only one additional full term.
+           (6) Committee meetings may only be convened with the approval of the appropriate board and the concurrence of the
+Division.
+           (7) Unless otherwise approved by the Division, peer or advisory committee meetings shall be held in the building
+occupied by the Division.
+           (8) A majority of the peer or advisory committee members shall constitute a quorum and may act on behalf of the peer
+or advisory committee.
+           (9)(a) Peer or advisory committees shall annually designate one of their members to serve as chair.
+           (b) The Division shall provide a Division employee to act as committee secretary to take minutes of committee
+meetings and to prepare committee correspondence.
+           (10) Peer or advisory committees shall comply with Title 52, Chapter 4, Open and Public Meetings Act.
+           (11) Peer or advisory committees shall comply with Title 63G, Chapter 4, Administrative Procedures Act, in their
+adjudicative proceedings.
+           (12) Peer or advisory committee members shall perform their duties and responsibilities as public service and may not
+receive a per diem allowance, or traveling or accommodations expenses incurred in peer or advisory committees business, except
+as otherwise provided in Title 58, Occupations and Professions, or Title R156.
+
+R156-1-206. Emergency Review Committees - Appointment - Terms - Vacancies - Removal - Quorum - Chair and
+Secretary - Open and Public Meetings Act and Utah Administrative Procedures Act - Per Diem and Expenses.
+          (1) The board chair for the profession of the person against whom an emergency adjudicative proceeding is proposed
+under Sections 63G-4-502 and 58-1-108 may appoint the members of the emergency review committee on a case-by-case or
+period-of-time basis.
+          (2) With the exception of the appointment and removal of members and filling of vacancies by the board chair,
+emergency review committees shall serve in accordance with Subsections R156-1-205(7), and (9) through (12).
+
+R156-1-301. License Application - Filing Date - Applicable Requirements for Licensure - Issuance Date.
+          (1) The filing date for an application for licensure is the postmark date of the application or the date the application is
+received and date stamped by the Division, whichever is earlier.
+           (2) Except as otherwise provided by statute, rule, or order, the requirements for licensure are the requirements in effect
+on the filing date of the application.
+           (3) The issuance date for a license is the date the approval is input into the Division's electronic licensure database.
+           (4) Under Subsection 58-1-301(1)(b)(ii)(B), other satisfactory evidence of an applicant's identity is:
+           (a) an Individual Taxpayer Identification Number (ITIN);
+           (b) an Alien Registration Number (A-number); or
+           (c) for an applicant who has never been issued a social security number, Individual Taxpayer Identification Number
+(ITIN), or Alien Registration Number (A-number):
+           (i) an unexpired government-issued passport from the applicant's country of residence; and
+           (ii) an intent-to-hire letter from a Utah-based employer.
+
+R156-1-301.7. Change of Information - Notification.
+          (1) Notification sent by email under Section 58-1-301.7 is complete on transmission if transmission is completed
+during normal business hours, 8 a.m. to 5 p.m. on days other than Saturdays, Sundays, and state and federal holidays, at the place
+receiving the notice; otherwise, notice is complete on the next business day.
+          (2) Notification by email may be accomplished by attachment to the email or in the body of the email, or both.
+
+R156-1-302. Licensure by Endorsement.
+           (1) This section is adopted by the Division under the authority of Subsection 58-1-302(6) to enable the Division to
+administer Section 58-1-302.
+           (2) An applicant for licensure by endorsement who has the required experience practicing under a license issued in the
+other state, district, territory, or jurisdiction is not required to have the license currently active.
+           (3) Under Subsection 58-1-302(4), the Division may consider in its evaluation of an applicant for licensure by
+endorsement's experience or other qualifications the time that has elapsed since the applicant's licensed or lawful practice.
+           (4) The Division may require an applicant for licensure by endorsement to pass one or more of the exams required to
+obtain licensure in the profession, such as a business and law exam, jurisprudence exam, or professional exam, except if
+expressly provided otherwise in statute or rule.
+
+R156-1-303. Temporary Licenses in Declared Disaster or Emergency.
+           (1) Under Section 53-2a-1203, a person who provides services under this exemption from licensure, shall within 30
+days of entry file a notice with the Division under Subsection 53-2a-1205(1) using forms available from the Division.
+           (2) Under Section 53-2a-1205 and Subsection 58-1-303(1), a person who provides services under the exemption from
+licensure in Section 53-2a-1203 for a declared disaster or emergency shall, after the disaster period ends and before continuing to
+provide services, meet the normal requirements for licensure under Title 58, Occupations and Professions, unless:
+           (a) before practicing after the declared disaster the person is issued a temporary license under Subsection 58-1-
+303(1)(c); or
+           (b) the person qualifies under another exemption from licensure.
+
+R156-1-305. Inactive Licensure.
+          (1) Under Section 58-1-305, the following licenses issued under Title 58, Occupations and Professions that are active
+in good standing may be placed on inactive licensure status:
+          (a) advanced practice registered nurse (APRN);
+          (b) anesthesiologist assistant;
+          (c) architect;
+          (d) audiologist;
+          (e) certified public accountant emeritus;
+          (f) certified prescribing psychologist;
+          (g) certified nurse midwife;
+          (h) state certified court reporter;
+          (i) certified social worker;
+          (j) chiropractic physician;
+          (k) clinical mental health counselor;
+          (l) clinical social worker;
+          (m) contractor;
+          (n) deception detection examiner;
+          (o) deception detection intern;
+          (p) dental hygienist;
+          (q) dentist;
+          (r) dispensing medical practitioner - advanced practice registered nurse;
+          (s) dispensing medical practitioner - physician and surgeon;
+          (t) dispensing medical practitioner - physician assistant;
+          (u) dispensing medical practitioner - osteopathic physician and surgeon;
+           (v) dispensing medical practitioner - optometrist;
+           (w) dispensing medical practitioner - clinic pharmacy;
+           (x) genetic counselor;
+           (y) health facility administrator;
+           (z) hearing instrument specialist;
+           (aa) landscape architect;
+           (bb) licensed advanced substance use disorder counselor;
+           (cc) licensed physical therapist;
+           (dd) marriage and family therapist;
+           (ee) master addiction counselor;
+           (ff) naturopath-naturopathic physician;
+           (gg) optometrist;
+           (hh) osteopathic physician and surgeon;
+           (ii) pharmacist;
+           (jj) pharmacy technician;
+           (kk) physician assistant;
+           (ll) physician and surgeon;
+           (mm) podiatric physician;
+           (nn) private probation provider;
+           (oo) professional engineer;
+           (pp) professional land surveyor;
+           (qq) professional structural engineer;
+           (rr) psychologist;
+           (ss) radiology practical technician;
+           (tt) school psychological practitioner;
+           (uu) radiologic technologist;
+           (vv) security personnel;
+           (ww) speech-language pathologist;
+           (xx) substance use disorder counselor;
+           (yy) veterinarian; and
+           (zz) state certified veterinary technician.
+           (2)(a) A licensee requesting inactive licensure shall submit a verified application in a form prescribed by the Division
+together with:
+           (i) documentation that the applicant meets the requirements for inactive licensure; and
+           (ii) the appropriate fee.
+           (b) If the licensee meets the requirements for inactive licensure, the Division shall place the license on inactive status.
+           (3) A license may remain on inactive status indefinitely except as otherwise provided in Title 58, Occupations or
+Professions or Title R156.
+           (4) An inactive licensee may activate their license by submitting a verified application for activation in a form
+prescribed by the Division together with:
+           (a) the appropriate fee; and
+           (b) except as otherwise provided in Title 58, Occupations and Professions or Title R156, documentation that the
+inactive licensee meets current renewal requirements.
+           (5) An inactive licensee whose license is activated during the last 12 months of a renewal cycle shall, upon payment of
+the appropriate fees, be licensed for a full renewal cycle plus the period remaining until the impending renewal date, rather than
+being required to immediately renew their activated license.
+           (6) A Controlled Substance license may be placed on inactive status if it is attached to a primary license placed on
+inactive status.
+
+R156-1-308a. Renewal Dates.
+         (1) The following standard two-year renewal cycle renewal dates are established by license classification in
+accordance with Subsection 58-1-308(1):
+
+                                       TABLE 1
+                                     Renewal Dates
+Acupuncturist                                          May 1 even years
+Advanced Practice Registered Nurse                     January 31 even years
+Advanced Practice Registered Nurse - CRNA              January 31 even years
+Anesthesiologist Assistant                             January 31 even years
+Architect                                              May 31 even years
+Associate Clinical Mental Health Counselor             September 30 even years
+Associate Marriage and Family Therapist                September 30 even years
+Associate Master Addiction Counselor              May 31 odd years
+Athlete Agent                                     September 30
+                                                  even years
+Athletic Trainer                                  May 31 odd years
+Audiologist                                       May 31
+                                                  odd years
+Barber                                            September 30 odd years
+Barber Apprentice                                 September 30 odd years
+Barber School                                     September 30 odd years
+Behavior Analyst                                  September 30 even years
+Assistant Behavior Analyst
+Behavior Specialist                               September 30 even years
+Assistant Behavior Specialist
+Building Inspector                                November 30 odd years
+Burglar Alarm Security                            March 31 odd years
+C.P.A. Firm                                       December 31 even years
+Certified Dietitian                               September 30 even years
+Certified Nurse Midwife                           January 31 even years
+Certified Prescribing Psychologist                September 30 even years
+Certified Public Accountant                       December 31 even years
+Certified Social Worker                           September 30 even years
+Chiropractic Physician                            May 31 even years
+Clinical Mental Health Counselor                  September 30 even years
+Clinical Social Worker                            September 30 even years
+Contractor                                        November 30 odd years
+Controlled Substance License                      primary license renewal
+Controlled Substance Precursor                    May 31 odd years
+Controlled Substance Handler                      September 30 odd years
+Cosmetologist/Barber                              September 30 odd years
+Cosmetologist/Barber Apprentice                   September 30 odd years
+Cosmetology/Barber School                         September 30 odd years
+Deception Detection Examiner                      November 30 even years
+Deception Detection Examination Administrator
+Deception Detection Intern
+Dental Hygienist                                  May 31 even years
+Dentist                                           May 31 even years
+Direct-entry Midwife                              September 30 odd years
+Dispensing Medical Practitioner -                 September 30 odd years
+ Advanced Practice Registered Nurse
+ Optometrist
+ Osteopathic Physician and Surgeon
+ Physician and Surgeon
+ Physician Assistant
+Dispensing Medical Practitioner Clinic Pharmacy   September 30 odd years
+Dispensing Practitioner (LDP)                     primary license renewal
+Electrician -                                     November 30 even years
+ Apprentice
+ Journeyman, Master
+ Residential Journeyman, Residential Master
+Electrologist                                     September 30 odd years
+Electrology School                                September 30 odd years
+Elevator Mechanic                                 November 30 even years
+Environmental Health Scientist                    May 31 odd years
+Esthetician                                       September 30 odd years
+Esthetician Apprentice                            September 30 odd years
+Esthetics School                                  September 30 odd years
+Eyelash and Eyebrow Technician                    September 30 odd years
+Eyelash and Eyebrow Technology School             September 30 odd years
+Factory Built Housing Dealer                      September 30 even years
+Funeral Service Director                          May 31 even years
+Funeral Service Establishment                 May 31 even years
+Genetic Counselor                             September 30 even years
+Hair Designer                                 September 30 odd years
+Hair Designer School                          September 30 odd years
+Health Facility Administrator                 May 31 odd years
+Hearing Instrument Specialist                 September 30 even years
+Landscape Architect                           May 31 even years
+Licensed Advanced Substance                   May 31 odd years
+Use Disorder Counselor
+Licensed Behavioral Health Coach              September 30 even years
+Licensed Practical Nurse                      January 31 even years
+Licensed School Psychological Practitioner    September 30 even years
+Licensed Substance Use Disorder Counselor     May 31 odd years
+Marriage and Family Therapist                 September 30 even years
+Massage Apprentice                            May 31 odd years
+Massage Therapist                             May 31 odd years
+Massage Assistant                             May 31 odd years
+Master Addiction Counselor                    May 31 odd years
+Master Esthetician                            September 30 odd years
+Master Esthetician Apprentice                 September 30 odd years
+Medication Aide Certified                     March 31 odd years
+Nail Technologist                             September 30 odd years
+Nail Technologist Apprentice                  September 30 odd years
+Nail Technology School                        September 30 odd years
+Naturopath - Naturopathic Physician           May 31 even years
+Occupational Therapist                        May 31 odd years
+Occupational Therapy Assistant                May 31 odd years
+Optometrist                                   September 30 even years
+Osteopathic Physician and Surgeon             May 31 even years
+Restricted Associate Osteopathic Physician
+Outfitter and Hunting Guide                   May 31 even years
+Pharmacy - Class A, B, C, D, E, or            September 30 odd years
+Online Contract Pharmacy
+Pharmacist                                    September 30 odd years
+Pharmacy Technician                           September 30 odd years
+Physical Therapist                            May 31 odd years
+Physical Therapist Assistant                  May 31 odd years
+Physician Assistant                           May 31 even years
+Physician and Surgeon,                        January 31 even years
+Restricted Associate Physician
+Plumber --                                    November 30 even years
+ Apprentice,
+ Journeyman, Master
+ Residential Master, Residential Journeyman
+Podiatric Physician                           September 30 even years
+Preneed Funeral Arrangement Sales Agent       May 31 even years
+Private Probation Provider                    May 31 odd years
+Professional Engineer                         March 31 odd years
+Professional Geologist                        March 31 odd years
+Professional Land Surveyor                    March 31 odd years
+Professional Structural Engineer              March 31 odd years
+Provisional Prescribing Psychologist          September 30 even years
+Psychologist                                  September 30 even years
+Radiologic Technologist                       May 31 odd years
+Radiology Practical Technician
+Radiologist Assistant
+Recreational Therapy -                        May 31 odd years
+ Therapeutic Recreation Technician
+ Therapeutic Recreation Specialist
+ Master Therapeutic Recreation Specialist
+Registered Nurse                                       January 31 odd years
+Respiratory Care Practitioner                          September 30 even years
+Security Personnel                                     November 30 even years
+Social Service Worker                                  September 30 even years
+Speech-Language Pathologist                            May 31 odd years
+State Certified Behavioral Health Technician           September 30 even years
+State Certified Commercial Interior Designer           March 31 odd years
+State Certified Court Reporter                         May 31 even years
+State Certified Music Therapist                        March 31 odd years
+State Certified Veterinary Technician                  September 30 even years
+Veterinarian                                           September 30 even years
+Vocational Rehabilitation Counselor                    March 31 odd years
+
+         (2) The following non-standard license terms and renewal or extension cycles are established in accordance with
+Subsection 58-1-308(1) and specific requirements of the license:
+
+                                                                TABLE 2
+                                                     Non-Standard License Terms
+PROFESSION                                                 TERM
+Certified Medical Language Interpreter Tier 1 or 2         3-year term, renews March 31 - may renew.
+(Section 58-80a-304)
+Funeral Service Intern                                     2-year term, and one additional 2-year term* - then may extend only for
+(Subsection 58-9-303(2))                                   hardship.**
+Hearing Instrument Intern                                  3-year term - may extend.*, **
+(Subsection 58-46a-303(2))
+Massage Assistant In-Training                              6-month term - may extend only for hardship.*, **
+(Sections 58-47b-303, R156-47b-303)
+Pharmacy technician trainee                                2-year term - may extend for exceptional circumstances.*
+(Section 58-17b-305.1, Subsection R156-17b-303a(4))
+Psychology Resident                                        2-year term - may extend for a period not to exceed two years past the date
+(Subsection 58-61-304(3)(b))                               of completion of the minimum supervised experience requirement.*
+Type I Foreign Trained Physician-Educator                  Initial 1-year term - may renew on 2-year cycles if satisfies Subsection 58-
+(Section 58-67-302.7)                                      67-302.7(2) requirements, and completes Section 58-37-303 CE.
+Type II Foreign Trained Physician-Educator                 Initial 1-year term -- may renew annually up to four times if satisfies
+(Section 58-67-302.7)                                      Subsection 58-67-302.7(3) requirements, and completes Section 58-67-303
+                                                           CE.
+*Extension allowed only if the licensee presents evidence satisfactory to the Division and board that the licensee is on a course
+reasonably expected to lead to licensure, such as making reasonable progress toward passing any qualifying examinations or
+completing required supervision hours.
+**Extension allowed only if a circumstance of hardship arose beyond the licensee's control to prevent the completion of the licensure
+process, and extension is for a period proportionate to hardship.
+
+
+R156-1-308b. Renewal Periods - Adjustment of Renewal Fees for an Extended or Shortened Renewal Period.
+          (1) Except as otherwise provided by statute or as required to establish or reestablish a renewal period, each renewal
+period shall be two years.
+          (2) The renewal fee for a renewal period that is extended or shortened by more than one month to establish or
+reestablish a renewal period may be increased or decreased proportionately.
+
+R156-1-308c. Renewal of Licensure Procedures.
+           (1) Under Subsection 58-1-308(3) this section establishes the procedures for renewal of licensure.
+           (2) The Division shall send a renewal notice to each licensee at least 60 days before the expiration date of the licensee's
+license.
+           (3)(a) The Division shall send each renewal notice by email to the most recent email address provided to the Division
+by the licensee.
+           (b) The Division may send a renewal notice by mail deposited in the post office postage prepaid, addressed to the most
+recent mailing provided to the Division by the licensee.
+           (4) Under Subsection 58-1-301.7(2), a notification sent to the most recent mailing address or email address provided to
+the Division by the licensee constitutes legal notice.
+           (5) Each renewal notice shall:
+           (a) include directions for the licensee to renew the license on the Division's website;
+           (b) notify the licensee that the renewal requirements are outlined in the online renewal process, and that each licensee
+shall document or certify that the licensee meets the renewal requirements before renewal; and
+           (c) notify the licensee that:
+           (i) a license that is not renewed before the license expiration date automatically expires; and
+           (ii) continued practice without a license is a criminal offense under Subsection 58-1-501(1)(a).
+           (6) A licensee who is licensed during the last 12 months of a renewal cycle shall be licensed for a full renewal cycle
+plus the time remaining until the impending renewal date, and is not required to immediately renew the license.
+
+R156-1-308d. Waiver of Continuing Education Requirements - Credit for Volunteer Service.
+             (1)(a) Under Subsection 58-1-203(1)(g), a licensee may request a waiver of a continuing education requirement under
+this title, or an extension of time to complete a requirement, if the licensee will be unable or was unable to complete the
+requirement due to a medical or related condition, humanitarian or ecclesiastical services, extended presence in a geographical
+area where continuing education is not available, or other reasonable cause.
+             (b) A licensee shall submit the request no later than the deadline for completing the continuing education requirement,
+except as allowed by the Division for good cause shown.
+             (c) A licensee submitting a request has the burden of proof and shall document the reason for the request to the
+satisfaction of the Division.
+             (d) A request shall include the beginning and ending dates during which the licensee is unable, or was unable, to
+complete the continuing education requirement and a detailed explanation of the reason that includes:
+             (i) the extent and duration of the impediment;
+             (ii) the extent to which the licensee will continue to be, or continued to be, engaged in practice of the licensee's
+profession;
+             (iii) the nature of the medical condition;
+             (iv) the location and nature of the humanitarian services;
+             (v) the geographical area where continuing education is not available; and
+             (vi) other relevant information.
+             (e) The Division may require a licensee to obtain a specified number of continuing education hours, courses, or both,
+before reentering the practice of the profession or within a specified period after reentering the practice of the profession, as
+recommended by the appropriate board, to assure competent practice.
+             (f)(i) A licensee who receives a waiver from meeting the minimum continuing education requirements is not exempt
+from Subsection 58-1-501(2)(a)(ix), which requires that the licensee provide services within the competency, abilities, and
+education of the licensee.
+             (ii) If a licensee cannot competently provide services, the waiver of meeting the continuing education requirements
+may be conditioned upon the licensee limiting practice to areas in which the licensee has the required competency, abilities, and
+education.
+             (2)(a) Under Subsections 58-1-203(1)(g) and 58-55-302.5(2)(e)(i), the Division may grant continuing education credit
+to a licensee for volunteering as a subject-matter expert in the review and development of licensing exams for the licensee's
+profession.
+             (b) Subject to specific limitations established by rule by the Division in collaboration with a licensing board or the
+Construction Services Commission, this volunteer continuing education credit shall:
+             (i) apply to the license period or periods during which the volunteer service was provided;
+             (ii) be granted on a 1:1 ratio, meaning that for each hour of attendance, the licensee may receive one hour of credit;
+             (iii) be core, classroom, or live credit, regardless of whether the licensee attended meetings in person or electronically;
+and
+             (iv) at the licensee's discretion, the whole or part of the credit hours may be counted toward law or ethics continuing
+education requirements.
+             (c) The licensee shall maintain information with respect to the licensee's volunteer services to demonstrate the services
+meet the requirements of this subsection.
+             (3) Under Section 58-13-3, a health care professional licensee may fulfill up to 15% of the licensee's continuing
+education requirements by providing volunteer services at a qualified location within the scope of the licensee's license, earning
+one hour of continuing education credit for every four documented h ours of volunteer health care treatment.
+
+R156-1-308e. Automatic Expiration of Licensure Upon Dissolution of Licensee.
+           Under Subsection 58-1-308(2), if a dissolved entity's existence has been reinstated before the expiration date shown
+upon the entity's expired license, and the entity meets the qualifications for licensure:
+           (1) if the entity submits its application for reinstatement before the expiration date shown on the license, the license
+shall be retroactively reinstated to the date of expiration of licensure; and
+           (2) if the entity submits its application for reinstatement after the expiration date shown on the license, the license shall
+be reinstated on the effective date of the approval of the application for reinstatement.
+
+R156-1-308f. Denial of Renewal of Licensure - Classification of Proceedings - Conditional Renewal of Licensure During
+Adjudicative Proceedings - Conditional Initial, Renewal, or Reinstatement Licensure During Audit or Investigation.
+           (1) If an initial, renewal, or reinstatement applicant under Section 58-1-301 or 58-1-308 is selected for audit, under
+investigation, or pending inspection, the Division may conditionally issue the initial license or conditionally renew or reinstate
+the license pending the completion of the audit, investigation, or inspection.
+           (2) The undetermined completion of a referenced audit, investigation, or inspection, rather than the established
+expiration date, shall be indicated as the expiration date of a conditionally issued, renewed, or reinstated license.
+           (3) A conditional issuance, renewal, or reinstatement is not an adverse licensure action.
+           (4) Upon completion of the audit, investigation, or inspection, the Division shall notify the applicant if the applicant's
+license is unconditionally issued, renewed, reinstated, denied, or partially denied or reinstated.
+           (5) A notice of unconditional denial or partial denial of licensure shall include:
+           (a) the basis for action;
+           (b) the Division's file or other reference number of the audit or investigation; and
+           (c) notice that the action is subject to agency review, and how and when the applicant may request agency review.
+
+R156-1-308g. Reinstatement of Licensure that was Active and in Good Standing at the Time of Expiration of Licensure -
+Requirements.
+           The following requirements apply to reinstatement of licensure that was active and in good standing at the time of
+expiration of licensure:
+           (1) under Subsection 58-1-308(5), if the filing date of an application for reinstatement is between the date of the
+expiration of the license and 30 days after the date of the expiration of the license, the applicant shall:
+           (a) submit a completed renewal form furnished by the Division demonstrating compliance with requirements and
+conditions of license renewal; and
+           (b) pay the license renewal fee and a late fee.
+           (2) under Subsection 58-1-308(5), if the filing date of an application for reinstatement is between 31 days after the
+expiration of the license and two years after the date of the expiration of the license, the applicant shall:
+           (a) submit a completed renewal form provided by the Division demonstrating compliance with requirements and
+conditions of license renewal; and
+           (b) pay the license renewal fee and reinstatement fee.
+           (3) under Subsection 58-1-308(6), if the filing date of an application for reinstatement is more than two years after the
+date the license expired:
+           (a) if the applicant has not been active in the licensed profession as described in Subsection 58-1-308(6)(b), the
+applicant shall:
+           (i) submit an application for licensure complete with supporting documents as is required of an individual making an
+initial application for license demonstrating the applicant meets current qualifications for licensure; and
+           (ii) pay the license fee for a new applicant for licensure; or
+           (b) if the applicant has been active in the licensed profession as described in Subsection 58-1-308(6)(b), the applicant
+shall:
+           (i) provide documentation that the applicant has continuously, since the expiration of the applicant's license in Utah,
+been active in the licensed profession while in the full-time employ of the United States government or under license to practice
+that profession in any other state or territory of the United States;
+           (ii) provide documentation that the applicant has completed or is in compliance with any renewal qualifications;
+           (iii) provide documentation that the applicant's application was submitted within six months after reestablishing
+domicile within Utah or terminating full-time government service; and
+           (iv) pay the license renewal fee and the reinstatement fee.
+
+R156-1-308h. Reinstatement of Restricted, Suspended, or Probationary Licensure During Term of Restriction,
+Suspension, or Probation - Requirements.
+          (1) Reinstatement of restricted, suspended, or probationary licensure during the term of limitation, suspension, or
+probation shall be in accordance with the disciplinary order that imposed the discipline.
+          (2) Unless otherwise specified in a disciplinary order imposing restriction, suspension, or probation of licensure, the
+disciplined licensee may, at reasonable intervals during the term of the disciplinary order, petition for reinstatement of licensure.
+          (3) A petition for reinstatement of licensure during the term of a disciplinary order imposing restriction, suspension, or
+probation, shall be treated as a request to modify the terms of the disciplinary order, not as an application for licensure.
+
+R156-1-308i. Reinstatement of Restricted, Suspended, or Probationary Licensure After the Specified Term of Suspension
+of the License or After the Expiration of Licensure in a Restricted, Suspended or Probationary Status - Requirements.
+           Unless otherwise provided by a disciplinary order, an applicant who applies for reinstatement of a license after the
+specified term of suspension of the license or after the expiration of the license in a restricted, suspended, or probationary status
+shall:
+           (1) submit an application for licensure complete with supporting documents as is required of an individual making an
+initial application for license demonstrating the applicant meets current qualifications for licensure and compliance with
+requirements and conditions of license reinstatement;
+           (2) pay the license renewal fee and the reinstatement fee;
+        (3) provide information requested by the Division and board to clearly demonstrate the applicant is currently
+competent to be reinstated to engage in the profession; and
+        (4) pay any fines or citations owed to the Division.
+
+R156-1-308j. Relicensure Following Revocation of Licensure - Requirements.
+           An applicant for relicensure following revocation of licensure shall:
+           (1) submit an application for licensure complete with supporting documents as is required of an individual making an
+initial application for license demonstrating the applicant meets current qualifications for licensure and compliance with
+requirements and conditions of license reinstatement;
+           (2) pay the license fee for a new applicant for licensure; and
+           (3) provide information requested by the Division and board to clearly demonstrate the applicant is currently
+competent to be relicensed to engage in the profession.
+
+R156-1-308k. Relicensure Following Surrender of Licensure - Requirements.
+           (1) An applicant who surrendered a license that was active and in good standing when it was surrendered shall meet
+the requirements for licensure in Sections R156-1-308a through R156-1-308l.
+           (2) An applicant who surrendered a license while the license was active but not in good standing as evidenced by the
+written agreement supporting the surrender of license shall:
+           (a) submit an application for licensure complete with supporting documents as is required of an individual making an
+initial application for license demonstrating the applicant meets the current qualifications for licensure and compliance with
+requirements and conditions of license reinstatement;
+           (b) pay the license fee for a new applicant for licensure;
+           (c) provide information requested by the Division and board to clearly demonstrate the applicant is currently
+competent to be relicensed to engage in the profession; and
+           (d) pay any fines or citations owed to the Division.
+
+R156-1-308l. Reinstatement of Licensure and Relicensure - Term of Licensure.
+           Except as otherwise governed by the terms of an order issued by the Division, a license issued to an applicant for
+reinstatement or relicensure during the last 12 months of a renewal cycle shall, upon payment of the appropriate fees, be issued
+for the rest of the current renewal cycle plus the next full renewal cycle.
+
+R156-1-309. Division Exams.
+            (1) This section establishes standards for the administration of Division exams in accordance with Sections 58-1-106,
+58-1-203, and 58-1-309.
+            (2) Upon evidence that a person has engaged in cheating:
+            (a) the exam administrator shall notify the Division of the circumstances in detail and the identity of each person
+involved; and
+            (b) the Division shall make an appropriate inquiry and may open an investigation to determine the facts concerning the
+alleged cheating.
+            (3) If evidence of cheating by a candidate is detected before an exam, the Division may:
+            (a) deny the candidate the privilege of taking the exam; or
+            (b)(i) before the candidate takes the exam, notify the candidate of the evidence of cheating and that the Division may
+determine the candidate to have failed the exam if it finds the candidate has cheated.
+            (4) If evidence of cheating by a candidate is detected during an exam, the exam administrator may:
+            (a) end the exam, request the candidate to leave the exam facility, and notify the candidate of the evidence of cheating
+and that the Division may determine the candidate to have failed the exam if it finds that the candidate has cheated; or
+            (b)(i) determine that the alleged cheating has not yet compromised the integrity of the exam, take any necessary steps
+to prevent cheating, and permit the candidate to continue taking the exam; and
+            (ii) after the exam, notify the candidate of the evidence of cheating, and that the Division may determine the candidate
+to have failed the exam if the Division finds that the candidate has cheated.
+            (5) If the Division determines that an individual has engaged in cheating or has otherwise engaged in unprofessional
+conduct regarding an exam, the Division may take appropriate action including one or more of the following:
+            (a) if the individual is an exam candidate, deny the individual the privilege of taking or retaking the exam for a period;
+            (b) refuse to issue the individual a license or otherwise act upon a license issued to the individual pursuant to Section
+58-1-401; or
+            (c) establish the conditions that the individual shall meet to qualify for a license, such as meeting with the board.
+            (6) An exam administrator may end a candidate's exam session, or the Division may invalidate a candidate's exam
+results if the candidate:
+            (a) is engaging or appears to be engaging in cheating;
+            (b) reports late to the candidate's appointed exam session;
+            (c) fails to present required identification at the time of the exam session;
+            (d) creates a disturbance of any kind, including for example:
+           (i) engaging in behavior that the exam administrator determines is disruptive to another candidate taking the exam;
+           (ii) using language that might generally be considered inappropriate or offensive; or
+           (iii) engaging in oral or physical altercations with the exam administrator or another individual;
+           (e) fails to comply with the directions of the exam administrator; or
+           (f) reports to the exam under the influence of alcohol, drugs, or other intoxicant, to the extent that the exam
+administrator determines that it does, or might reasonably be considered to, impair the ability of the candidate to safely engage in
+the exam.
+           (7) Each exam subject-matter expert and each exam administrator:
+           (a) shall be a Utah resident;
+           (b) shall be 18 years of age or older;
+           (c) if the exam requires specific knowledge of the profession to grade or administer the exam, shall hold an active
+license in good standing in that profession or have satisfactory experience or an active license in good standing in a related
+industry as approved by the Division;
+           (d) shall adhere to professional ethics and codes of conduct for the profession, including this section and Subsection
+R156-1-501(9);
+           (e) shall agree in writing to not participate in any exam coaching or preparation activities for the exam for five years
+following their review or administration of the exam; and
+           (f) may not be affiliated with a person that may profit from or materially benefit from knowledge of exam content,
+such as an educational institution or training program.
+           (8)(a) The Division may invalidate exam results if it determines that there is a basis to question the validity of the
+exam results for any reason, notwithstanding the absence of any evidence of a candidate's personal involvement in cheating or
+other unprofessional conduct.
+           (b) Evidence of invalid results may include, for example, unusual answer patterns or score increases, or equipment
+failure.
+
+R156-1-310. Application for Division Determination Regarding Criminal Conviction.
+           (1) This section establishes the application procedures for a Division determination under Section 58-1-310.
+           (2) An individual applying for a determination shall:
+           (a) submit the Application for Criminal History Determination form available on the Division's website, containing a
+signed attestation and release;
+           (b) submit a separate application with processing fee for each license that the individual is interested in seeking; and
+           (c) under Subsection 58-1-310(2)(e), provide any additional documentation that may be required by the Division to
+verify or evaluate the individual's representations made in the application.
+           (3) Under Subsection 58-1-310(2), the individual's complete criminal conviction history shall include:
+           (a) criminal convictions, pleas of nolo contendere, and pleas of guilty or nolo contendere that are held in abeyance
+pending the successful completion of probation; and
+           (b) current restrictions from possession, purchase, transfer, or ownership of a firearm or ammunition.
+           (4) The Division shall make a determination based solely on the information in the individual's application and
+supporting documents.
+           (5) Agency review is not available for a Division order or determination under Section 58-1-310.
+
+R156-1-401. Consideration of Unlawful Conduct, Unprofessional Conduct, or Other Mental or Physical Condition.
+          (1) Under Section 58-1-401, this section applies in circumstances where an applicant or licensee:
+          (a) is not automatically disqualified from licensure pursuant to statute or rule; and
+          (b)(i) has past unlawful or unprofessional conduct; or
+          (ii) as described in Subsection 58-1-401(2)(d), may be unable to practice the profession with reasonable skill and
+safety because of illness, drunkenness, excessive use of drugs, narcotics, chemicals, or other type of material, substance use
+disorder, or a mental or physical condition that, when considered with the duties and responsibilities of the license held or to be
+held, demonstrates a threat or potential threat to the public health, safety, or welfare.
+          (2) In a circumstance described in Subsection (1), the following factors are relevant to a licensing decision:
+          (a) aggravating circumstances, as defined in Subsection R156-1-102(2);
+          (b) mitigating circumstances, as defined in Subsection R156-1-102(17);
+          (c) the degree of risk to the public health, safety, or welfare;
+          (d) the degree of risk that a conduct will be repeated;
+          (e) the degree of risk that a condition will continue;
+          (f) the magnitude of the conduct or condition as it relates to the harm or potential harm;
+          (g) the length of time since the last conduct or condition has occurred;
+          (h) the current criminal probationary or parole status of the applicant or licensee;
+          (i) the current administrative status of the applicant or licensee, for any regulated profession;
+          (j) results of previously submitted applications, for any regulated profession;
+          (k) results from any action, taken by any professional licensing agency, criminal, or administrative agency, employer,
+practice monitoring group, entity, or association, for any regulated profession;
+           (l) evidence presented indicating that restricting or monitoring the individual's practice, conditions, or conduct can
+protect the public health, safety, or welfare;
+           (m) psychological evaluations; or
+           (n) any other information the Division and the applicable board reasonably believe may assist in evaluating the degree
+of threat or potential threat to the public health, safety, or welfare.
+
+R156-1-501. Unprofessional Conduct.
+           "Unprofessional conduct" includes:
+           (1) surrendering licensure to any other licensing or regulatory authority having jurisdiction over the licensee or
+applicant in any regulated profession while an investigation or inquiry into allegations of unprofessional conduct or unlawful
+conduct is in progress, or after a charging document has been filed against the applicant or licensee alleging unprofessional
+conduct or unlawful conduct;
+           (2) practicing a regulated profession in, through, or with a business structure or name that:
+           (a) has not been properly registered with the Division of Corporations and Commercial Code; or
+           (b) has not been properly licensed with the Division;
+           (3) engaging in conduct that results in disciplinary action, including reprimand, censure, diversion, probation,
+suspension, or revocation, by any other licensing or regulatory authority having jurisdiction over the licensee or applicant in any
+profession, if the conduct:
+           (a) when considered with the functions and duties of the profession for which the license was issued or is to be issued,
+bears a substantial relationship to the licensee's or applicant's ability to safely to competently practice the profession; or
+           (b) would, in this state, constitute grounds for denial of licensure or disciplinary proceedings under Section 58-1-401;
+           (4) prohibiting or inhibiting the ability of a licensee's customer, patient, or other consumer of the licensee's goods or
+services from making a complaint to a licensing or regulatory authority, including through the use of a contract provision;
+           (5) engaging in cheating or otherwise violating Section R156-1-309 regarding Division exams;
+           (6) failing, as a prescribing practitioner, to follow the Guidelines for the Chronic Use of Opioid Analgesics, adopted as
+policy April 2017 by the Federation of State Medical Boards, which is incorporated by reference;
+           (7) failing to comply with an investigative subpoena or an order regarding an investigative subpoena;
+           (8) failing, as a health care provider, to follow the health care claims practices of Section 31A-26-313, in violation of
+Subsection 58-1-508(2); or
+           (9) as an exam candidate or as an exam proctor, grader, or administrator, failing to comply with the Division of
+Professional Licensing Exam Policies and Procedures, dated December 29, 2023, which is incorporated by reference.
+
+R156-1-502. Administrative Penalties.
+           (1) Under Subsection 58-1-401(5) and Section 58-1-502, except as otherwise provided by a specific chapter under
+Title 58, Occupations and Professions or Title R156, the Division shall issue a notice of agency action instead of a citation for a
+third or subsequent offense, except in extraordinary circumstances approved by the bureau manager or chief investigator.
+           (2) Multiple offenses may be cited on the same citation, if the citation clearly indicates each offense and the fine
+allocated to each offense.
+           (3) The bureau manager, investigative team leader, or chief investigator may authorize a deviation from the fine in a
+citation based upon the aggravating or mitigating circumstances.
+           (4) The presiding officer for a contested citation shall have the discretion, after a review of the evidence and any
+aggravating and mitigating circumstances, to increase or decrease the fine amount imposed by an investigator.
+
+R156-1-503. Reporting Disciplinary Action.
+         The Division may report disciplinary action to other state or federal governmental entities, state and federal data banks,
+the media, or other person who is entitled to the information under the Government Records Access and Management Act.
+
+R156-1-506. Supervision of Cosmetic Medical Procedures.
+        The 80 hours of documented education and experience required under Subsection 58-1-506(2)(f)(iii) to maintain
+competence to perform nonablative cosmetic medical procedures includes the following:
+        (1) the appropriate standards of care for performing nonablative cosmetic medical procedures;
+        (2) physiology of the skin;
+        (3) skin typing and analysis;
+        (4) skin conditions, disorders, and diseases;
+        (5) pre and post procedure care;
+        (6) infection control;
+        (7) laser and light physics training;
+        (8) laser technologies and applications;
+        (9) safety and maintenance of lasers;
+        (10) cosmetic medical procedures an individual is permitted to perform under this title;
+        (11) recognition and appropriate management of complications from a procedure; and
+          (12) current cardio-pulmonary resuscitation (CPR) certification for health care providers from one of the following
+organizations:
+          (a) American Heart Association;
+          (b) American Red Cross or its affiliates; or
+          (c) American Safety and Health Institute.
+
+R156-1-601. Suicide Prevention Video - Primary Care Providers.
+           (1)(a) Under Subsection 58-1-601(3), the Division shall produce the suicide prevention videos described in Subsection
+58-1-601(2) by meeting at least annually with the Division of Integrated Healthcare to review information on existing videos and
+plan new videos, including:
+           (i) establishing goals, specifications, and standards for the videos;
+           (ii) identifying approved vendors from Utah's Best Value Cooperative Contracts list or otherwise planning requests for
+proposals;
+           (iii) awarding contracts for creation of the videos; and
+           (iv) producing the videos and providing them in effective formats.
+           (b) The Division shall collaborate with the Department of Government Operations to allow primary care providers
+access to view the suicide prevention videos described in Subsection 58-1-601(2) on the Division's website, at no cost to the
+providers.
+           (c) A primary care provider may fulfill up to ten of their CPE hours by viewing the Division-created suicide prevention
+videos, as follows:
+           (i) for a video 25 minutes or less in length, a provider may recognize one-half CPE credit hour; and
+           (ii) for a video 26 minutes or longer, a provider may recognize CPE credit in 50-minute hour blocks of time.
+           (d) The Division's production of the suicide prevention videos may include posting Division-approved substitutes for
+the videos on its website, such as Counseling on Access to Lethal Means (CALM) training, or more robust in-person training
+CME hours from a Suicide Prevention Summit provided by the Department of Health and Human Services.
+           (2)(a) Under Subsection 58-1-601(2)(b), the Division-approved educational materials or courses related to suicide
+prevention shall include those identified on the Division's website.
+           (b) The number and type of CPE credit hours allowed for completion of each educational material or course shall be
+stated on the Division's website or in the educational materials or course.
+           (3)(a) The Division or other provider of suicide prevention educational materials, courses, or videos may track or
+confirm a primary care provider's completion of the educational materials, course, or video.
+           (b) A primary care provider shall maintain documentation sufficient to prove compliance with Section 58-1-601 and
+this section, for two years after the end of the licensure cycle for which the CPE is due, including:
+           (i) title of the educational materials, course, or video;
+           (ii) date completed;
+           (iii) number of CE hours claimed; and
+           (iv) type of CE.
+
+R156-1-602. Telehealth.
+          (1) Terms used in this rule are defined in Section 26B-4-704. In addition:
+          (a) "Patient Encounter" means any encounter where medical treatment and evaluation and management services are
+provided. The entire course of an inpatient stay in a healthcare facility or treatment in an emergency department is a single
+patient encounter.
+          (b) "Provider" means the same as defined in Subsection 26-60-102(6)(b), an individual licensed under Title 58,
+Occupations and Professions to provide health care services, and:
+          (i) shall include an individual exempt from licensure as defined in Section 58-1-307 who provides health care services
+within the individual's scope of practice under Title 58, Occupations and Professions; and
+          (ii) may include multiple providers obtaining informed consent and providing care as a team, consistent with the
+standards of practice applicable to a broader practice model found in traditional health care settings.
+          (2) Under Subsection 26B-4-704(2)(b), a provider offering telehealth services shall, before each patient encounter:
+          (i) verify the patient's identity and originating site;
+          (ii) allow the patient an opportunity to select their provider rather than being assigned a provider at random, to the
+extent possible; and
+          (iii) ensure that the online site does not restrict the patient's choice to select a specific pharmacy for pharmacy services;
+and
+          (b) before each initial patient encounter, obtain informed consent to the use of telehealth services by clear disclosure
+of:
+          (i) additional fees for telehealth services, if any, and how payment is to be made for those additional fees if they are
+charged separately;
+          (ii) to whom patient health information may be disclosed and for what purpose, including clear reference to any patient
+consent governing release of patient-identifiable information to a third-party;
+          (iii) the rights of the patient with respect to patient health information;
+           (iv) appropriate uses and limitations of the site, including emergency health situations;
+           (v) information affirming that the telehealth services meet industry security and privacy standards in Subsection 26B-
+4-704(1)(i)(ii), and warning of potential risks to privacy regardless of the security measures;
+           (vi) a warning that information may be lost due to technical failures, and clearly referencing any patient consent to
+hold the provider harmless for such loss; and
+           (vii) information disclosing the website owner-operator, location, and contact information.
+           (3) Under Subsection 26B-4-704(2)(d), a provider offering telehealth services shall be available to the patient for
+subsequent care related to the initial telemedicine services as follows:
+           (a) providing the patient with a clear mechanism to:
+           (i) access, supplement, and amend patient-provided personal health information;
+           (ii) contact the provider for subsequent care;
+           (iii) obtain upon request the patient's medical record or other report containing an explanation of the treatment
+provided to the patient and the provider's evaluation, analysis, or diagnosis of the patient's condition, including the informed
+consent provided; and
+           (iv) request a transfer to another provider of the patient's medical record documenting the telemedicine services; and
+           (b) if the provider recommends that the patient be seen in person, such as if diagnosis requires a physical examination,
+lab work, or imaging studies:
+           (i) arranging to see the patient in person, or referring the patient to the patient's designated health care provider, or if
+none, to an appropriate health care provider; and
+           (ii) documenting the referral in the patient's medical record; and
+           (c) if the patient does not have a designated health care provider, consult with the patient and send a medical record or
+other report to the referred health care provider in the manner provided under Subsection 26B-4-704(2)(g), except the medical
+record or report shall be provided within a reasonable time frame allowing for timely care of the patient by that provider.
+           (4) Nothing in this section shall prohibit electronic communications consistent with standards of practice applicable in
+traditional health care settings, including the following:
+           (a) between a provider and a patient with a preexisting provider-patient relationship;
+           (b) between a provider and another provider concerning a patient with whom the other provider has a provider-patient
+relationship;
+           (c) in on-call or cross coverage situations when the provider has access to patient records;
+           (d) in broader practice models when multiple providers provide care as a team, including, for example:
+           (i) within an existing organization; or
+           (ii) within an emergency department; or
+           (e) in an emergency, which as used in this section means a situation when there is an occurrence posing an imminent
+threat of a life-threatening condition or severe bodily harm.
+
+KEY: licensing, supervision, evidentiary restrictions
+Date of Last Change: December 24, 2024
+Notice of Continuation: November 2, 2021
+Authorizing, and Implemented or Interpreted Law: 58-1-106(1)(a); 58-1-308; 58-1-501(2)
+

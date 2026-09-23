@@ -1,0 +1,467 @@
+R156. Commerce, Professional Licensing.
+R156-26a. Certified Public Accountant Licensing Act Rule.
+R156-26a-101. Title - Authority - Organization.
+         (1) This rule is known as the "Certified Public Accountant Licensing Act Rule."
+         (2) This rule is adopted by the Division under the authority of Subsection 58-1-106(1)(a) to enable the Division to
+administer Title 58, Chapter 26a, Certified Public Accountant Licensing Act.
+         (3) The organization of this rule and its relationship to Rule R156-1 is as described in Section R156-1-101.
+
+R156-26a-102. Definitions.
+           Terms used in this rule are defined in Title 58, Chapter 1, Division of Professional Licensing Act, and Title 58, Chapter
+26a, Certified Public Accountant Licensing Act. In addition:
+           (1) "Academic Unit" means the number of semester or quarter credit hours awarded by a nationally or regionally
+accredited academic program.
+           (a) One semester or quarter hour awarded for upper division academic work shall be credited as one Academic Unit.
+           (b) One semester or quarter hour awarded for post graduate academic work shall be credited as 1.6 Academic Units.
+           (2) "Accounting Coursework Requirements" as used in Subsection R156-26a-302a(1)(b) means:
+           (a) 24 semester Academic Units or 36 quarter Academic Units in upper division or graduate-level accounting courses
+that includes at least one course in each of the following subjects:
+           (i) financial accounting;
+           (ii) auditing;
+           (iii) taxation;
+           (iv) managerial or cost accounting; and
+           (v) accounting information systems or data analytics.
+           (b) An accounting internship may satisfy up to six semester Academic Units or nine quarter Academic Units under
+Subsection R156-26a-102(2)(a).
+           (3) "Administering organization" means an organization approved by the Division and the Board to administer peer
+reviews in the peer review program.
+           (4) "AICPA" means the Association of International Certified Professional Accountants.
+           (5) "AICPA Uniform CPA Examination" means the Uniform CPA Examination approved and administered by the
+AICPA and NASBA.
+           (6) "AICPA Examination of Professional Ethics for CPAs" means the professional ethics examination for CPA's
+approved and administered by the AICPA and NASBA.
+           (7) "Business Coursework Requirements" as used in Subsection R156-26a-302a(1)(b) means 12 semester or 18
+quarter Academic Units in business-related coursework that:
+           (a) may be earned through lower division, upper division, or post graduate-level coursework;
+           (b) cannot be used to satisfy the Accounting Coursework Requirements under Subsection R156-26a-102(2); and
+           (c) focuses on business-related concepts, regardless of course name, including coursework in:
+           (i) accounting, subject to Subsection R156-26a-102(3)(b);
+           (ii) business administration;
+           (iii) business communications;
+           (iv) business ethics;
+           (v) business law;
+           (vi) business logistics and supply chain management;
+           (vii) business leadership and management;
+           (viii) business project management;
+           (ix) business information systems;
+           (x) economics;
+           (xi) finance;
+           (xii) human resources;
+           (xiii) introduction to financial or managerial accounting;
+           (xiv) marketing;
+           (xv) statistics and quantitative methods; or
+           (xvi) taxation.
+           (8) "Certified transcript" under Subsection 58-26a-302(1)(c) shall mean an applicant's official academic transcript
+which has been:
+           (a) Directly mailed, electronically sent, or otherwise delivered directly from the academic institution to the Division; or
+           (b) Delivered to the Division in an envelope sealed by the academic institution.
+           (9) (CPAES) means the CPA Examination Services of the NASBA.
+           (10) "CPE" means qualified continuing professional education as under Section 58-26a-304.
+           (11) "CPE Audit Service" means the online continuing professional education reporting system administered by
+NASBA.
+           (12) "Home jurisdiction" means the jurisdiction where a CPA or CPA firm is licensed and their principal place of
+business is located.
+           (13) "Individual mobility" means an individual CPA licensee:
+           (a) meets the requirements of Subsection 58-26a-305(1)(a) to perform services through mobility in Utah; and
+           (b) does not need to obtain a Utah CPA license or otherwise register with the Division.
+           (14) "Mobility" means a practice privilege included under Subsections 58-26a-305(1)(a) and (2) that generally permits
+a CPA who meets the requirements of Subsection 58-26a-305(1)(a)(i) to:
+           (a) practice as a CPA in Utah under Section 58-26a-305 without obtaining a Utah CPA license; and
+           (b) be subject to the conditions of Subsections 58-26a-305(1)(a)(ii) and (2) including Division discipline based on the
+mobility CPA's performance of services in Utah whether provided physically, electronically, or otherwise.
+           (15) "Mobility tool" as used in Subsection R156-26a-305(6) means the online tool developed by the AICPA and
+NASBA to help CPAs and CPA firms understand mobility and determine their eligibility for mobility and is available at
+https://cpamobility.nasba.org.
+           (16) "Nationally accredited" means an education program accredited by:
+           (a) the Association to Advance Collegiate Schools of Business (AACSB); or
+           (b) the Accreditation Council for Business Schools and Programs (ACBSP).
+           (17) NASBA means the National Association of State Boards of Accountancy.
+           (18) "Peer review program" or "PRP" means the AICPA's quality control program through which a CPA firm is
+periodically audited or tested by an external peer organization using professional standards to:
+           (a) ensure the highest ethical and professional standards are being used to produce quality services;
+           (b) provide accountability and transparency; and
+           (c) protect the public.
+           (19) "Qualified continuing professional education (CPE)" means continuing education that meets the standards in
+Section R156-26a-303b.
+           (20) "Regionally accredited" means an education program accredited by:
+           (a) the Northwest Commission on Colleges and Universities (NWCCU);
+           (b) the North Central Association of Colleges and Schools (NCA);
+           (c) the Middle States Commission on Higher Education (MSCHE);
+           (d) the New England Commission on Higher Education (NECHE);
+           (e) the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC); or
+           (f) the Western Association of Schools and Colleges (WASC).
+           (21) "Unprofessional conduct" is further defined, under Subsection 58-1-203(1)(e), in Section R156-26a-501.
+           (22) "Year of review" means the calendar year during which a peer review is to be conducted.
+
+R156-26a-201. Advisory Peer Committees Created - Membership - Duties.
+          (1) There is created under Subsection 58-1-203(1)(f) the Education Advisory Committee to the Board that shall:
+          (a) consist of one full time faculty member from each college or university in Utah that has a nationally accredited or
+regionally accredited program, except the majority of these committee members shall be licensed CPAs;
+          (b) be appointed and serve under Section R156-1-205; and
+          (c) have the duty and responsibility to assist the Division in the Division's duties, functions, and responsibilities
+including:
+          (i) advising the Board on the acceptability of an educational institution including the institution's:
+          (A) accreditation;
+          (B) the acceptability by other state licensing boards;
+          (C) the faculty qualifications; and
+          (D) other educational resources;
+          (ii) assisting the Board to determine under Section R156-26a-306 if an applicant is qualified to sit for the AICPA
+Uniform CPA Examination; and
+          (iii) advising the Board regarding proposed rule changes.
+          (2) There is created under Subsection 58-1-203(1)(f) the Advisory Peer Review Program Committee to the Board that
+shall:
+          (a) consist of up to ten licensed CPAs;
+          (b) be appointed and serve under Section R156-1-205; and
+          (c) have the duty and responsibility to advise the Board on peer review matters including:
+          (i) reviewing the results of peer reviews by administering organizations; and
+          (ii) as the Advisory Peer Review Program Committee determines necessary, requiring corrective action of a firm that:
+          (A) has significant deficiencies noted in the peer review under Subsection R156-26a-201(2)(c)(i); and
+          (B) is in addition to any corrective actions required by the administering organization;
+          (iii) evaluating compliance of CPE programs;
+          (iv) performing random audits to determine compliance with the CPE requirements and the standards for CPE
+programs;
+           (v) reviewing complaints made to the Division and recommending whether certain acts, practices, or omissions violate
+the ethical standards of the profession;
+           (vi) providing technical assistance to the Division; and
+           (vii) serving as expert witnesses at administrative hearings.
+
+R156-26a-302a. Qualifications for CPA Licensure - Education Requirements.
+           (1) Under Subsection 58-26a-302(1)(c), an applicant shall submit certified transcripts from a nationally accredited or
+regionally accredited institution showing completion of the educational requirements under Subsection 58-26a-302(1)(c)(i).
+           (a) An applicant who has completed a bachelors or masters program with a major in accounting or taxation shall be
+deemed to have met the education requirements of Subsection 58-26a-302(1)(c)(i).
+           (b) An applicant who has completed a bachelors, masters or other equivalent program with a major in any area of study
+other than accounting shall be deemed to have met the education requirements of Subsection 58-26a-302(1)(c)(i) if the submitted
+transcript shows successful completion of all Accounting Coursework Requirements under Subsection R156-26a-102(2) and
+Business Coursework Requirements under Subsection R156-26a-102(4).
+           (c) An applicant may complete the Accounting Coursework Requirements and Business Coursework Requirements as
+part of the bachelors, masters or other equivalent degree described or in addition to applicant's bachelors masters or other
+equivalent degree.
+           (2) An applicant may request that the Division in collaboration with the Board or the Education Advisory Committee
+review the applicant's degree from an education program that is not nationally accredited or regionally accredited to determine
+the degree's equivalency to the educational requirement of Subsection R156-26a-302a(1).
+           (3) The Division, in collaboration with the Board or the Education Advisory Committee may accept an applicant's
+education if the applicant:
+           (a) is licensed or was licensed as a certified public accountant in the United States under Subsection 58-26a-302(2)(a);
+or
+           (b) obtained:
+           (i) licensure equivalent to Subsection 58-26a-302(2)(a) in a jurisdiction outside of the United States; and
+           (ii) submits a verification from NASBA showing compliance with the terms of a current Mutual Recognition
+Agreement between the jurisdiction described in Subsection 302(3)(b)(i) and the International Qualifications Appraisal Board of
+NASBA.
+           (4) The Division in collaboration with the Board or the Education Advisory Committee may make a written finding for
+cause that a particular nationally accredited, regionally accredited, or non-accredited institution or program is not acceptable.
+           (5) Under Subsection 58-26a-306(1)(c), the Board designates CPAES as the organization that shall determine if an
+applicant has met the education requirements and is approved to sit for the AICPA Uniform CPA Examination. If an applicant
+disputes CPAES's determination, the Board shall make the final determination.
+
+R156-26a-302b. Qualifications for CPA Licensure - Experience Requirements.
+          (1) An applicant under Subsection 58-26a-302(1)(d) shall submit evidence of two years of accounting experience
+meeting the requirements of Subsection 58-26a-102(9).
+          (2) A post graduate degree may be substituted for one year of experience under Subsection R156-26a-302b(1).
+          (3) An applicant by endorsement under Subsection 58-26a-302(2) shall submit evidence that the applicant:
+          (a) is licensed as a certified public accountant in the United States; or
+          (b) has obtained:
+          (i) licensure equivalent to Subsection R156-26a-302b(1) in a jurisdiction outside of the United States; and
+          (ii) a verification from NASBA showing compliance with the terms of a current Mutual Recognition Agreement
+between the jurisdiction in Subsection R156-26a-302b(2)(a) and the International Qualifications Appraisal Board of NASBA.
+
+R156-26a-302c. Qualifications for Licensure - Examinations.
+         This section describes the qualifications required by an applicant before taking the qualifying examination under
+Subsection 58-26-302(1)(e).
+         (1) Under Subsection 58-26a-306(1)(a), the form of application approved by the Division is the application that
+CPAES requires to sit for the AICPA Uniform CPA Examination.
+         (2) Under Subsection 58-26a-306(1)(b), the fee is the fee charged by CPAES. No additional fee is due to the Division.
+         (3) Under 306(1)(c), an applicant shall submit a certified transcript showing:
+         (a) completion of a bachelors, masters, or higher degree with a major in accounting or taxation; or
+         (b) completion of:
+         (i) the Accounting Coursework Requirements described in Subsection R156-26a-102(2); and
+         (ii) the Business Coursework Requirements described in Subsection R156-26a-102(4).
+         (c) an applicant may fulfill any Accounting Coursework Requirements or Business Coursework Requirements as:
+         (i) part of a degree program;
+         (ii) separate from a degree program through a nationally accredited or regionally accredited institution; or
+         (iii) through an institution deemed equivalent to a nationally or regionally accredited institution under Subsection
+R156-26a-302a(2).
+           (4) Under Subsections 58-26a-306(1)(c) and (d), the Board designates CPAES as the organization that shall determine
+if an applicant has met the education requirements and is approved to sit for the AICPA Uniform CPA Examination. If an
+applicant disputes CPAES's determination, the Board shall make the final determination.
+           (5) An applicant for licensure as a certified public accountant shall also pass:
+           (a) the AICPA Examination of Professional Ethics for CPAs with a score of at least 90%; and
+           (b) the Utah (CPA) Laws and Rules Examination with a score of at least 75%.
+           (6) The Division in collaboration with the Board may accept testing of a person who holds a license as a certified
+public accountant or equivalent designation in a foreign country, if the applicant has obtained from NASBA verification of
+compliance with the terms of a current Mutual Recognition Agreement between the foreign country and the International
+Qualifications Appraisal Board of NASBA.
+
+R156-26a-303a. Renewal Requirements - Peer Review Program.
+            (1)(a) Under Subsections 58-1-308(3)(b) and 58-26a-303(2)(b), a licensee shall meet the peer review program
+requirement as a condition for the renewal of a license issued under Title 58, Chapter 26a, Certified Public Accountant Licensing
+Act.
+            (b) If an administering organization performing a peer review of a licensee who is unwilling or unable to comply with
+or intentionally disregards professional standards, the administering organization shall refer the matter to the Division to
+determine the appropriate action.
+            (2) A firm engaged in the practice of public accounting shall undergo a peer review as defined in Subsection 58-26a-
+102(14) that is:
+            (a) performed at the firm's own expense;
+            (b) commensurate in scope with the firm's practice;
+            (c) performed at least once every three years; and
+            (d) administered by an accounting firm as the administering organization; and
+            (3)(a) The administering organization providing the peer review shall:
+            (i) assign the year of review for the licensee; and
+            (ii) as part of the peer review program:
+            (A) review the work product of the licensee; and
+            (B) monitor the licensee's compliance with professional standards.
+            (b) If the administering organization finds the licensee is non-compliant, then the administering organization shall:
+            (ii) emphasize education; and
+            (iii) may include other remedial actions.
+            (4) This subsection describes the timing of the initial peer review process and role of regulatory bodies performing
+peer review.
+            (a) Within 18 months after the administering organization issues its initial report as defined in Subsection 58-26a-
+102(20), the administering organization shall assign a deadline to start the initial peer review.
+            (b) the role of regulatory bodies performing peer reviews shall be as follows:
+            (i) A regulatory body may perform a portion of the peer review if the Board approves the regulatory body as an
+administering organization.
+            (ii) The peer review performed by a regulatory authority under Subsection R156-26a-303(4)(b)(i) does not satisfy the
+peer review requirement unless the regulatory body fulfills the other standards in this rule.
+            (5) This subsection describes the assignment of peer reviewers or inspectors.
+            (a) A firm scheduled for peer review as defined in Subsection 58-26a-102(14) shall engage a reviewer qualified to
+conduct the peer review.
+            (b) A regulatory body shall assign the inspector.
+            (6) This subsection describes the qualifications of a peer reviewer.
+            (a) A peer reviewer shall provide evidence to the administering organization that the peer reviewer:
+            (i) has been accepted as a peer reviewer by the AICPA; or
+            (ii) meets the qualifications required by the AICPA to qualify as a peer reviewer.
+            (b) A peer reviewer shall be licensed or hold a permit to practice as a CPA in Utah or in another jurisdiction of the
+United States.
+            (c) The administering organization shall approve each reviewer for a peer review that is not administered by the
+AICPA.
+            (d) A regulatory body shall determine the qualifications of inspectors.
+            (7) This subsection describes the minimum standards for peer reviews.
+            (a)(i) A peer reviewer shall conduct each peer review according to the Standards for Performing and Reporting on Peer
+Reviews promulgated by the AICPA, effective June 1, 2023, which are incorporated by reference.
+            (ii) The requirement under Subsection R156-26a-303a(7)(a) does not require a firm or licensee to become a member of
+the AICPA or another administering organization.
+            (b) The Board may review the standards used by the regulatory body to determine if those standards are sufficient to
+satisfy all or part of the peer review requirements.
+            (8) If an administering organization finds that a peer review was not performed in accordance with this rule or the peer
+review results in a pass with deficiencies or fail report, the Peer Review Committee may require remedial action to assure that the
+review or performance of the CPA or CPA firm being reviewed meets the objectives of the peer review program.
+            (9) This subsection describes the peer review standards for multi-state CPA firms.
+            (a) For a multi-state firm, the Division may accept a peer review based solely upon work conducted by a peer reviewer
+outside of Utah as satisfying the requirement to undergo peer review under this rule, if:
+            (i) the peer review is conducted during the year scheduled or rescheduled under Subsection R156-26a-303a(12);
+            (ii) the peer review is performed in accordance with requirements equivalent to those of Utah;
+            (iii) the peer review:
+            (A) studies, evaluates, and reports on the quality control system of the firm as a whole in the case of system reviews;
+or
+            (B) results in an evaluation and report on selected engagements in the case of engagement reviews;
+            (iv) the firm's internal inspection procedures require that the firm's personnel from another office outside the state
+perform the inspection of the office located in Utah not less than once in each three-year period; and
+            (v) at the conclusion of the peer review, the peer reviewer issues a report equivalent to that required by Subsection
+R156-26a-303a(7) or in the case of an approved regulatory body, a report is issued under their standards.
+            (b) A multi-state firm seeking approval under Subsection R156-26a-303a(9)(a) shall submit an application to the
+administering organization by February 1 of the year of review that establishes the peer review it proposes to undergo meets the
+requirements of Subsection R156-26a-303a(7).
+            (10) This subsection describes the requirements for a firm to be exempt from peer review.
+            (a) A firm that does not perform services encompassed in the scope of minimum standards as set out in Subsection
+R156-26a-303a(7)(a) or (b) is exempt from peer review and shall notify the Division of the exemption at the time of renewal of
+its registration.
+            (b) A firm exempt under Subsection R156-26a-303a(10)(a) that begins providing these services shall begin a peer
+review within 18 months of the date of the issuance of its initial report as defined in Subsection 58-26a-102(16).
+            (11) This subsection describes the peer review obligations of firms following consolidations, mergers, and divisions.
+            (a) If two or more firms are merged or sold and combined, the new firm shall retain the year of review of the largest of
+the firms that are merged or sold and combined.
+            (b) If a firm is divided, each new firm shall retain the year of review of the original firm, except if the year of review is
+less than 12 months after the original firm was divided, then a new year of review shall be assigned.
+            (c) Upon application to the administering organization and a showing of hardship caused solely by compliance with
+Subsection R156-26a-303a(12), the Division may authorize a change in a firm's year of review.
+            (12) This subsection describes the process for extending the time for a peer review.
+            (a) If a firm can demonstrate that the time established for the conduct of a peer review will create an unreasonable
+hardship upon the firm, the Division may approve an extension of up to 180 days from the date the peer review was originally
+scheduled.
+            (b) A firm's request for extension under Subsection R156-26a-303a(12)(a) shall:
+            (i) be in writing:
+            (ii) be submitted to the Division; and
+            (ii) include a copy to the administering organization responsible for administering the firm's peer review;
+            (c) The firm shall send the request under Subsection R156-26a-303a(12)(a) to the Division and to the administering
+organization at least 30 days before the date of scheduled review or the request will not be considered; and
+            (d) If the Division approves an extension, the Division shall notify the administering organization of the extension.
+            (13) This subsection describes the file retention requirements for the administering organization.
+            (a) Peer review documentation necessary to establish that each peer review was performed in conformity with peer
+review standards adopted by the Board including:
+            (i) the peer review working papers;
+            (ii) the peer review report;
+            (iii) comment letters and related correspondence indicating the firm's concurrence or nonconcurrence; and
+            (iv) any proposed remedial actions and related implementation; and
+            (b) Peer review documentation under Subsection (13)(a) for the longer of:
+            (i) 120 days; or
+            (ii) the administering organization's retention schedule.
+            (14) This subsection describes the allocation of costs associated with peer reviews.
+            (a) The costs associated with a firm-on-firm review shall be:
+            (i) negotiated between the firm and the reviewer; and
+            (ii) paid directly to the reviewer.
+            (b) The administering organization shall:
+            (i) set the costs associated with committee assigned review team (CART);
+            (ii) collect the fees associated with committee assigned review team (CART) reviews; and
+            (iii) pay the reviewer.
+            (c) The costs associated with the administration of the review process shall be:
+           (i) paid from fees charged to the firms;
+           (ii) collected by the administering organization; and
+           (ii) based on a fee schedule included in the administering organization's proposal which:
+           (A) specifies how much shall be paid each year; and
+           (B) is based on firm size.
+           (15) If requested by the Peer Review Program Committee or the technical reviewer performing a peer review, a CPA
+or CPA firm shall allow access to confidential documents including financial statements, working papers, or other documents to
+verify that the peer review is performed according to professional standards.
+
+R156-26a-303b. Continuing Professional Education (CPE).
+          This section describes the qualified CPE requirements under Section 58-26a-304.
+          (1) A CPA shall complete at least 80 hours of CPE during each two-year licensure cycle ending on December 31 of
+each even-numbered year, except that no CPE hours are required at the first renewal after initial licensure.
+          (2) As part of a CPA's 80 hours of CPE, a CPA shall complete:
+          (a) at least one hour that covers Title 58, Chapter 26a, the Certified Public Accountant Licensing Act, and Rule R156-
+26a, the Certified Public Accountant Licensing Act Rule; and
+          (b) at least three hours of ethics education that covers at least one of the following areas:
+          (i) the AICPA Code of Professional Conduct;
+          (ii) case-based instruction focusing on real-life situational learning;
+          (iii) ethical dilemmas faced by accounting professionals; or
+          (iv) business ethics.
+          (3) This subsection describes the duties of a CPA to maintain knowledge, skills, and abilities.
+          (a) A CPA shall maintain current knowledge, skills, and abilities in each area in which the CPA provides services to
+provide services in a competent manner.
+          (b) A CPA may be required to obtain more than the 80 hours of CPE credits required under Section 58-26a-304 to
+meet the requirements of Subsection (3)(a).
+          (4) A CPA licensed under this rule shall complete the 80 hours of CPE required under Subsection (2) through courses
+that meet the requirements of the Statement on Standards for Continuing Professional Education (CPE) Programs, revised
+January 2024, that is published by AICPA and NASBA, which is incorporated by reference.
+          (5) This subsection describes CPE reporting requirements to the Division.
+          (a) The license renewal deadline and the CPE hours reporting period deadline shall be December 31 of each even-
+numbered year.
+          (b) Except as otherwise authorized by the Division, a licensee shall enter each earned CPE hour into the CPE Audit
+Service for online reporting and auditing of CPE compliance.
+          (c) A licensee applying for license renewal shall provide evidence to the Division that the licensee has met the CPE
+hours requirements under Section 58-26a-304 and this section.
+          (d) At the time of application for reinstatement, an individual or firm applying for license reinstatement shall provide
+evidence to the Division that the individual or firm has met the CPE hour requirements under Section R156-26a-307.
+          (e) If a licensee provides evidence to the Division that the licensee has met the CPE hour requirements under Section
+58-26a-304 and this section and renews the license before December 31 of an even-numbered year, then any additional CPE hour
+completed by that licensee through the remainder of the even-numbered year may be reported and carried forward toward the
+next succeeding CPE reporting period subject to Subsection (6).
+          (6) This subsection describes the carry forward provisions of the CPE program.
+          (a) A licensee who completes more than the required hours of CPE during the reporting period may carry forward up
+to 40 hours to the next succeeding reporting period.
+          (b) CPE hours obtained in the current reporting period and CPE hours carried forward from the previous reporting
+period shall qualify as general CPE hours only for the current reporting period.
+          (7) This subsection describes the impact of a CPA to failing to comply with CPE requirements.
+          (a) A licensee who fails to complete the required minimum CPE hours by the reporting deadline may not renew the
+license until the licensee completes the required CPE hours and reports the CPE hours to the Division.
+          (b)(i) Under Subsection 58-26a-304(4), a licensee may request that the Division in collaboration with the Board waive
+the CPE hours requirements or grant an extension for CPE hours on the basis that the licensee was not able to complete the
+continuing professional education due to medical condition or a related condition confirmed in writing by a qualified health care
+provider.
+          (ii) The qualified health care provider under Subsection (7)(b)(i) shall include the following in the written medical
+confirmation:
+          (A) the beginning and ending dates during which the licensee's medical condition would have prevented the licensee
+from completing the CPE hours;
+          (B) the extent of the licensee's medical condition; and
+          (C) the effect that the licensee's medical condition had upon the ability of the licensee to continue to engage in the
+practice of accountancy;
+          (iii) The Division in collaboration with the Board shall review the applicant's request for CPE waiver and shall
+consider whether the licensee continued to be engaged in the practice of accountancy on a full time or part time basis during the
+period specified by the medical confirmation under Subsections (7)(b)(i) and (ii).
+          (iv) If the Division waives the minimum CPE hours for a licensee, the licensee shall still be required to provide
+services:
+          (A) in a competent manner; and
+          (B) with current knowledge, skill, and ability.
+          (v) If a medical condition or another condition prevents a licensee from providing services that meet the requirements
+of Subsections (7)(b)(iv)(A) and (B), the CPA shall refrain from providing such services.
+
+R156-26a-303c. Renewal Cycle.
+         (1) Under Subsection 58-1-308(1), the renewal date for the two-year renewal cycle for licensees under Title 58,
+Chapter 26a, Certified Public Accountant Licensing Act is established in Section R156-1-308a.
+         (2) Renewal procedures shall be in accordance with Sections R156-1-308a through R156-1-308l.
+
+R156-26a-305. Exemptions from Licensure - Mobility.
+          (1) A CPA performing services in Utah through individual mobility shall hold a license in the home jurisdiction that is:
+          (a) active;
+          (b) unrestricted; and
+          (b) in good standing.
+          (2) A CPA performing services through mobility shall only perform the same level of services, attest or non-attest, in
+the mobility jurisdiction as they are permitted to perform in their home jurisdiction.
+          (3) A CPA firm not licensed in Utah may perform services through mobility in Utah as a person exempt from licensure
+pursuant to Subsection 58-26a-305(1)(a), if:
+          (a) the CPA firm's principal place of business is not in Utah;
+          (b) the CPA firm holds an active, unrestricted CPA firm license in good standing in its home jurisdiction; and
+          (c) the CPA firm meets the ownership and peer review requirements of the mobility jurisdiction pursuant to Subsection
+58-26a-302(3)(a)(iii) and Section R156-26a-303a.
+
+R156-26a-307. Reinstatement of Licenses.
+            (1) Under Subsection 58-1-308(1), an individual who held a Utah license that has expired for failure to renew for
+nonpayment of fees, or an individual applying for reinstatement from emeritus status, may be relicensed upon satisfactory
+completion of:
+            (a) submission of an application on Division-approved forms that shall contain information as to why the individual
+allowed their license to lapse; and
+            (b) 80 hours of qualified CPE completed within the 12 months preceding the submission of the application for
+reinstatement, which shall include:
+            (i) at least 16 hours in accounting or auditing or both; and
+            (ii) successful completion of the AICPA Professional Ethics for Certified Public Accountants Examination:
+            (A) with a score in each examination that meets the current minimum score for each examination that is required for
+initial licensure; and
+            (B) which shall count as eight hours of CPE toward the 80-hour CPE requirement.
+            (2) The Division may waive the requirements in Subsection R156-26-307(1)(b) if the applicant for reinstatement:
+            (a) has not been practicing within Utah since the expiration of the license being reinstated;
+            (b) has continuously since the expiration been licensed and practicing in another state; and
+            (c) demonstrates that the applicant has met the CPE requirements that would have been applicable in Utah during the
+time the license was expired in Utah.
+            (3) The Division may waive the requirements in Subsection R156-26a-307(1)(b) for an applicant if:
+            (a) the applicant failed to renew because of inadvertent failure to:
+            (i) pay the renewal fees;
+            (ii) sign application documents; or
+            (iii) meet similar technical application requirements;
+            (b) the application for reinstatement is filed with the Division within 24 months after expiration date of the license; and
+            (c) at the time of application for reinstatement, the applicant provides evidence that the applicant:
+            (i) attended acceptable CPE courses; and
+            (ii) complied with the CPE requirements at all times.
+            (4) The number of hours required to reinstate a license may not satisfy any CPE hour that may be required for
+subsequent renewal of the license.
+
+R156-26a-501. Unlawful Conduct.
+          Under Section 58-26a-501, the following citation fine schedule shall apply to a Division citation issued to an individual
+licensed under Title 58, Chapter 1, Division of Professional Licensing Act, and Title 58, Chapter 26b, Certified Public
+Accountant Licensing Act:
+
+                                            TABLE 1
+                                          Fine Schedule
+ Subsection    Violation                   First Offense                      Second Offense
+ (1)           58-1-501(1)(a)              $500 - $1,000                      $1,000 - $2,000
+ (2)           58-1-501(1)(b)              $500 - $1,000                      $1,000 - $2,000
+ (3)           58-1-501(1)(c)              $500 - $1,000                      $1,000 - $2,000
+ (4)           58-1-501(1 (d)              $500 - $1,000                      $1,000 - $2,000
+ (5)           58-1-501(1)(e)              $500 - $1,000                      $1,000 - $2,000
+ (6)           58-1-501(1)(g)              $500 - $1,000                      $1,000 - $2,000
+ (7)           58-26a-501(1)(a)            $500 - $1,000                      $1,000 - $2,000
+ (8)           58-26a-501(1)(b)            $500 - $1,000                      $1,000 - $2,000
+ (9)           58-26a-501(1)(c)            $500 - $1,000                      $1,000 - $2,000
+ (10)          58-26a-501(1)(d)(i)         $500 - $1,000                      $1,000 - $2,000
+ (11)          58-26a-501(1)(d)(ii)(A)     $500 - $1,000                      $1,000 - $2,000
+ (12)          58-26a-501(1)(d)(ii)(B)     $500 - $1,000                      $1,000 - $2,000
+ (13)          Other unlawful conduct      $500 - $1,000                      $1,000 - $2,000
+ (14)          Subsequent offense          Up to $2,000 for each day of the continued offense
+
+R156-26a-502. Unprofessional Conduct.
+          Under Section 58-1-203 and Subsection 58-26a-102(24), "unprofessional conduct" includes:
+          (1) willfully failing to comply with continuing professional education requirements;
+          (2) fraudulently reporting CPE;
+          (3) failing to conform to the accepted and recognized standards and ethics of the profession including those in the
+AICPA Code of Professional Conduct, effective December 15, 2014, updated through December 2025 which is incorporated by
+reference; or
+          (4) a CPA firm using the name of an individual who is not a licensed certified public accountant as part of the CPA
+firm name, except that a CPA firm may continue to use the name of a former owner who was a CPA but who has retired or is no
+longer active in the CPA firm.
+
+KEY: accountant, CPA, accounting firm, CPA firm, licensing, peer review, peer review program, continuing professional
+education
+Date of Last Change: July 8, 2026
+Notice of Continuation: September 27, 2021
+Authorizing, and Implemented or Interpreted Law: 58-26a-101; 58-1-106(1)(a); 58-1-202(1)(a)
+
