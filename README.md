@@ -1,3 +1,8 @@
+# Introduction & Who this is for
+
+I built this for friends and colleagues who were either earning or recertifying their CPAs. This is specifically for the Utah Rules & Laws exam. 
+NOTE: I AM NOT A CPA, just a nerd who did a bit of vibe-coding and general RAG-based AI rulesets to develop study material (flash cards, practice tests, etc.). 
+
 # cpa-utrules
 
 A zero-dependency (Python standard library only) **web app** for studying the
